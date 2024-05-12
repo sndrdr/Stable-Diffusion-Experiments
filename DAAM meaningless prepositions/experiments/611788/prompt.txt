@@ -1,0 +1,1 @@
+A stack in to balls that is next to a parking meter.
