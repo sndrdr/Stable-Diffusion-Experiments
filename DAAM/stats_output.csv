@@ -1,0 +1,2398 @@
+pair,preposition,iou,experiment_path
+preposition-subject,of,0.0,experiments/770625
+preposition-object,of,0.06367859989404678,experiments/770625
+preposition-verb,of,0.006559169385582209,experiments/770625
+preposition-subject,on,0.061387352645397186,experiments/765550
+preposition-object,on,0.02442002482712269,experiments/765550
+preposition-verb,on,0.0,experiments/765550
+preposition-subject,in,0.21165437996387482,experiments/370135
+preposition-object,in,0.0,experiments/370135
+preposition-verb,in,0.11968503892421722,experiments/370135
+preposition-subject,with,0.3109429180622101,experiments/694991
+preposition-object,with,0.32965564727783203,experiments/694991
+preposition-verb,with,0.0,experiments/694991
+preposition-subject,on,0.06984036415815353,experiments/768641
+preposition-object,on,0.12213359773159027,experiments/768641
+preposition-subject,of,0.0,experiments/734511
+preposition-object,of,0.0,experiments/734511
+preposition-verb,of,0.0,experiments/734511
+preposition-subject,at,0.0,experiments/566393
+preposition-object,at,0.0,experiments/566393
+preposition-verb,at,0.0,experiments/566393
+preposition-subject,up of,0.0,experiments/51721
+preposition-object,up of,0.0,experiments/51721
+preposition-verb,up of,0.0,experiments/51721
+preposition-subject,with,0.7328737378120422,experiments/492389
+preposition-object,with,0.27394208312034607,experiments/492389
+preposition-verb,with,0.0,experiments/492389
+preposition-subject,about,0.0,experiments/15681
+preposition-object,about,0.0,experiments/15681
+preposition-subject,on,0.5472440719604492,experiments/734907
+preposition-object,on,0.0,experiments/734907
+preposition-subject,on,0.0,experiments/460679
+preposition-object,on,0.0,experiments/460679
+preposition-verb,on,0.0,experiments/460679
+preposition-subject,of,0.42741936445236206,experiments/628993
+preposition-object,of,0.31040269136428833,experiments/628993
+preposition-subject,next to,0.0,experiments/711283
+preposition-object,next to,0.0,experiments/711283
+preposition-verb,next to,0.0,experiments/711283
+preposition-subject,by,0.0,experiments/124819
+preposition-object,by,0.0,experiments/124819
+preposition-verb,by,0.0,experiments/124819
+preposition-subject,underneath,0.0,experiments/622366
+preposition-object,underneath,0.0017761989729478955,experiments/622366
+preposition-verb,underneath,0.05904059112071991,experiments/622366
+preposition-subject,on top of,0.0,experiments/770470
+preposition-object,on top of,0.0,experiments/770470
+preposition-verb,on top of,0.0,experiments/770470
+preposition-subject,down,0.2557636797428131,experiments/750839
+preposition-object,down,0.0,experiments/750839
+preposition-verb,down,0.1863517016172409,experiments/750839
+preposition-subject,on,0.0008259912137873471,experiments/144988
+preposition-object,on,0.00036231885314919055,experiments/144988
+preposition-verb,on,0.0,experiments/144988
+preposition-subject,in,0.0,experiments/128515
+preposition-object,in,0.0,experiments/128515
+preposition-verb,in,0.0,experiments/128515
+preposition-subject,up to,0.1811535358428955,experiments/93596
+preposition-object,up to,0.057062435895204544,experiments/93596
+preposition-verb,up to,0.05756324157118797,experiments/93596
+preposition-subject,in,0.0,experiments/584465
+preposition-object,in,0.0,experiments/584465
+preposition-subject,next to,0.0,experiments/206160
+preposition-object,next to,0.0,experiments/206160
+preposition-verb,next to,0.0,experiments/206160
+preposition-subject,in,0.000961538462433964,experiments/762204
+preposition-object,in,0.0,experiments/762204
+preposition-verb,in,0.0,experiments/762204
+preposition-subject,at,0.0,experiments/690171
+preposition-object,at,0.0,experiments/690171
+preposition-verb,at,0.0,experiments/690171
+preposition-subject,on,0.19122807681560516,experiments/189493
+preposition-object,on,0.0,experiments/189493
+preposition-verb,on,0.1627907007932663,experiments/189493
+preposition-subject,in,0.45846155285835266,experiments/275927
+preposition-object,in,0.0,experiments/275927
+preposition-verb,in,0.2839805781841278,experiments/275927
+preposition-subject,of,0.0,experiments/35767
+preposition-object,of,0.8432376980781555,experiments/35767
+preposition-subject,in,0.010440308600664139,experiments/283744
+preposition-object,in,0.05489259958267212,experiments/283744
+preposition-subject,into,0.0,experiments/687166
+preposition-object,into,0.0,experiments/687166
+preposition-verb,into,0.0,experiments/687166
+preposition-subject,at,0.0,experiments/614657
+preposition-object,at,0.0,experiments/614657
+preposition-verb,at,0.0,experiments/614657
+preposition-subject,in,0.0,experiments/215117
+preposition-object,in,0.0,experiments/215117
+preposition-verb,in,0.0,experiments/215117
+preposition-subject,next to,0.0,experiments/171821
+preposition-object,next to,0.0,experiments/171821
+preposition-verb,next to,0.0,experiments/171821
+preposition-subject,in,0.0,experiments/292466
+preposition-object,in,0.0,experiments/292466
+preposition-verb,in,0.0,experiments/292466
+preposition-subject,with,0.16203702986240387,experiments/99171
+preposition-object,with,0.0024271844886243343,experiments/99171
+preposition-verb,with,0.0,experiments/99171
+preposition-subject,with,0.0,experiments/85883
+preposition-object,with,0.0,experiments/85883
+preposition-subject,onto,0.0,experiments/84251
+preposition-object,onto,0.0,experiments/84251
+preposition-verb,onto,0.0,experiments/84251
+preposition-subject,of,0.2937694787979126,experiments/808279
+preposition-object,of,0.35768863558769226,experiments/808279
+preposition-verb,of,0.0020964359864592552,experiments/808279
+preposition-subject,in,0.0,experiments/365933
+preposition-object,in,0.0,experiments/365933
+preposition-verb,in,0.0,experiments/365933
+preposition-subject,on,0.0007468260009773076,experiments/488117
+preposition-object,on,0.3809388279914856,experiments/488117
+preposition-verb,on,0.0,experiments/488117
+preposition-subject,up of,0.0,experiments/426237
+preposition-object,up of,0.0,experiments/426237
+preposition-subject,in,0.7066051959991455,experiments/104038
+preposition-object,in,0.02067183516919613,experiments/104038
+preposition-verb,in,0.7368420958518982,experiments/104038
+preposition-subject,wearing,0.356890469789505,experiments/414035
+preposition-object,wearing,0.12017480283975601,experiments/414035
+preposition-verb,wearing,0.0,experiments/414035
+preposition-subject,in,0.059405941516160965,experiments/255949
+preposition-object,in,0.0,experiments/255949
+preposition-verb,in,0.0771208256483078,experiments/255949
+preposition-subject,with,0.18477977812290192,experiments/36608
+preposition-object,with,0.007012622896581888,experiments/36608
+preposition-subject,on,0.0,experiments/41595
+preposition-object,on,0.0,experiments/41595
+preposition-verb,on,0.0,experiments/41595
+preposition-subject,in,0.3282378017902374,experiments/285753
+preposition-object,in,0.3047619163990021,experiments/285753
+preposition-verb,in,0.472258061170578,experiments/285753
+preposition-subject,in,0.8219223022460938,experiments/787666
+preposition-object,in,0.021739130839705467,experiments/787666
+preposition-verb,in,0.0,experiments/787666
+preposition-subject,of,0.0,experiments/430295
+preposition-object,of,0.0,experiments/430295
+preposition-verb,of,0.0,experiments/430295
+preposition-subject,on,0.0,experiments/569526
+preposition-object,on,0.0,experiments/569526
+preposition-verb,on,0.0,experiments/569526
+preposition-subject,of,0.0,experiments/768391
+preposition-object,of,0.0,experiments/768391
+preposition-verb,of,0.0,experiments/768391
+preposition-subject,through,0.29832810163497925,experiments/74246
+preposition-object,through,0.2530864179134369,experiments/74246
+preposition-verb,through,0.0,experiments/74246
+preposition-subject,up,0.0,experiments/27141
+preposition-object,up,0.01421464141458273,experiments/27141
+preposition-verb,up,0.03316749632358551,experiments/27141
+preposition-subject,on,0.07647059112787247,experiments/325298
+preposition-object,on,0.0,experiments/325298
+preposition-verb,on,0.0,experiments/325298
+preposition-subject,with,0.03869541361927986,experiments/217727
+preposition-object,with,0.0,experiments/217727
+preposition-verb,with,0.44237828254699707,experiments/217727
+preposition-subject,among,0.0,experiments/654453
+preposition-object,among,0.0,experiments/654453
+preposition-subject,of,0.672468900680542,experiments/172833
+preposition-object,of,0.1966310292482376,experiments/172833
+preposition-subject,of,0.0,experiments/490736
+preposition-object,of,0.0,experiments/490736
+preposition-subject,of,0.0,experiments/827061
+preposition-object,of,0.0,experiments/827061
+preposition-subject,behind,0.0,experiments/791971
+preposition-object,behind,0.0,experiments/791971
+preposition-verb,behind,0.0,experiments/791971
+preposition-subject,with,0.0,experiments/425512
+preposition-object,with,0.0,experiments/425512
+preposition-subject,on top of,0.0,experiments/194154
+preposition-object,on top of,0.0,experiments/194154
+preposition-verb,on top of,0.0,experiments/194154
+preposition-subject,on,0.050345782190561295,experiments/317697
+preposition-object,on,0.0,experiments/317697
+preposition-verb,on,0.0,experiments/317697
+preposition-subject,above,0.5633727312088013,experiments/8468
+preposition-object,above,0.16700375080108643,experiments/8468
+preposition-verb,above,0.0,experiments/8468
+preposition-subject,by,0.004761904943734407,experiments/94896
+preposition-object,by,0.0,experiments/94896
+preposition-verb,by,0.0,experiments/94896
+preposition-subject,of,0.0,experiments/714060
+preposition-object,of,0.0,experiments/714060
+preposition-verb,of,0.0,experiments/714060
+preposition-subject,with,0.0,experiments/239153
+preposition-object,with,0.0,experiments/239153
+preposition-subject,at,0.0,experiments/466163
+preposition-object,at,0.0,experiments/466163
+preposition-verb,at,0.0,experiments/466163
+preposition-subject,around,0.010351967066526413,experiments/545517
+preposition-object,around,0.0,experiments/545517
+preposition-verb,around,0.0,experiments/545517
+preposition-subject,on,0.004666666500270367,experiments/759552
+preposition-object,on,0.0,experiments/759552
+preposition-subject,with,0.000244140625,experiments/797290
+preposition-object,with,0.0007874015718698502,experiments/797290
+preposition-subject,wearing,0.015728477388620377,experiments/827716
+preposition-object,wearing,0.025477707386016846,experiments/827716
+preposition-subject,with,0.474420964717865,experiments/212641
+preposition-object,with,0.7220667004585266,experiments/212641
+preposition-verb,with,0.042504455894231796,experiments/212641
+preposition-subject,by,0.08154296875,experiments/13487
+preposition-object,by,0.08175791800022125,experiments/13487
+preposition-verb,by,0.0,experiments/13487
+preposition-subject,with,0.0,experiments/323698
+preposition-object,with,0.0,experiments/323698
+preposition-subject,of,0.0,experiments/316623
+preposition-object,of,0.0,experiments/316623
+preposition-verb,of,0.0,experiments/316623
+preposition-subject,in,0.0,experiments/475601
+preposition-object,in,0.0,experiments/475601
+preposition-verb,in,0.0,experiments/475601
+preposition-subject,with,0.04534883797168732,experiments/623509
+preposition-object,with,0.0,experiments/623509
+preposition-verb,with,0.0,experiments/623509
+preposition-subject,in front of,0.0,experiments/733084
+preposition-object,in front of,0.0,experiments/733084
+preposition-subject,in and out,0.0,experiments/786111
+preposition-object,in and out,0.0,experiments/786111
+preposition-verb,in and out,0.0,experiments/786111
+preposition-subject,in,0.08143322169780731,experiments/355648
+preposition-object,in,0.0,experiments/355648
+preposition-verb,in,0.0,experiments/355648
+preposition-subject,on,0.16304348409175873,experiments/418903
+preposition-object,on,0.0,experiments/418903
+preposition-subject,of,0.0,experiments/144798
+preposition-object,of,0.30891087651252747,experiments/144798
+preposition-subject,in,0.0,experiments/250798
+preposition-object,in,0.0,experiments/250798
+preposition-verb,in,0.0,experiments/250798
+preposition-subject,on,0.0,experiments/787064
+preposition-object,on,0.0,experiments/787064
+preposition-verb,on,0.0,experiments/787064
+preposition-subject,on,0.0,experiments/565510
+preposition-object,on,0.0,experiments/565510
+preposition-verb,on,0.0,experiments/565510
+preposition-subject,at,0.0,experiments/738861
+preposition-object,at,0.0,experiments/738861
+preposition-verb,at,0.0,experiments/738861
+preposition-subject,on,0.0,experiments/434364
+preposition-object,on,0.0,experiments/434364
+preposition-verb,on,0.0,experiments/434364
+preposition-subject,of,0.0,experiments/153969
+preposition-object,of,0.0,experiments/153969
+preposition-verb,of,0.0,experiments/153969
+preposition-subject,with,0.0,experiments/512756
+preposition-object,with,0.0,experiments/512756
+preposition-verb,with,0.0,experiments/512756
+preposition-subject,to,0.0,experiments/79919
+preposition-object,to,0.0,experiments/79919
+preposition-verb,to,0.0,experiments/79919
+preposition-subject,on,0.0,experiments/581672
+preposition-object,on,0.0,experiments/581672
+preposition-verb,on,0.0,experiments/581672
+preposition-subject,off,0.0,experiments/136266
+preposition-object,off,0.0,experiments/136266
+preposition-verb,off,0.0,experiments/136266
+preposition-subject,side by side,0.0,experiments/379035
+preposition-verb,side by side,0.0,experiments/379035
+preposition-subject,on,0.0,experiments/669848
+preposition-object,on,0.0,experiments/669848
+preposition-verb,on,0.0,experiments/669848
+preposition-subject,on,0.7019354701042175,experiments/736865
+preposition-object,on,0.0895218700170517,experiments/736865
+preposition-verb,on,0.026234567165374756,experiments/736865
+preposition-subject,with,0.09589041024446487,experiments/19458
+preposition-object,with,0.04724409431219101,experiments/19458
+preposition-subject,with,0.7534165382385254,experiments/189276
+preposition-object,with,0.6969072222709656,experiments/189276
+preposition-verb,with,0.0,experiments/189276
+preposition-subject,with,0.18212890625,experiments/476292
+preposition-object,with,0.20342205464839935,experiments/476292
+preposition-subject,of,0.011101622134447098,experiments/327981
+preposition-object,of,0.0055183288641273975,experiments/327981
+preposition-subject,in,0.0,experiments/216000
+preposition-object,in,0.0,experiments/216000
+preposition-verb,in,0.0,experiments/216000
+preposition-subject,up at,0.0,experiments/576963
+preposition-object,up at,0.0,experiments/576963
+preposition-verb,up at,0.0,experiments/576963
+preposition-subject,around,0.428955078125,experiments/222385
+preposition-object,around,0.05966586992144585,experiments/222385
+preposition-verb,around,0.024473534896969795,experiments/222385
+preposition-subject,of,0.0,experiments/516324
+preposition-object,of,0.0,experiments/516324
+preposition-verb,of,0.0,experiments/516324
+preposition-subject,of,0.0,experiments/19526
+preposition-object,of,0.0,experiments/19526
+preposition-subject,in,0.04765291512012482,experiments/108154
+preposition-object,in,0.0,experiments/108154
+preposition-subject,on,0.0,experiments/519398
+preposition-object,on,0.0,experiments/519398
+preposition-verb,on,0.0,experiments/519398
+preposition-subject,next to,0.0,experiments/249316
+preposition-object,next to,0.0,experiments/249316
+preposition-verb,next to,0.0,experiments/249316
+preposition-subject,on,0.00028481913614086807,experiments/382719
+preposition-object,on,0.0014641288435086608,experiments/382719
+preposition-subject,at,0.0,experiments/94669
+preposition-object,at,0.0,experiments/94669
+preposition-verb,at,0.0,experiments/94669
+preposition-subject,of,0.0,experiments/443022
+preposition-object,of,0.0,experiments/443022
+preposition-verb,of,0.0,experiments/443022
+preposition-subject,like,0.0,experiments/6942
+preposition-verb,like,0.0,experiments/6942
+preposition-subject,on,0.000732421875,experiments/64503
+preposition-object,on,0.0010668563190847635,experiments/64503
+preposition-verb,on,0.0,experiments/64503
+preposition-subject,on,0.0,experiments/374563
+preposition-object,on,0.0,experiments/374563
+preposition-verb,on,0.0,experiments/374563
+preposition-subject,next to,0.0030303029343485832,experiments/104585
+preposition-object,next to,0.0,experiments/104585
+preposition-verb,next to,0.0,experiments/104585
+preposition-subject,on,0.0,experiments/400153
+preposition-object,on,0.0,experiments/400153
+preposition-verb,on,0.0,experiments/400153
+preposition-subject,through,0.04611528664827347,experiments/89181
+preposition-object,through,0.058673471212387085,experiments/89181
+preposition-verb,through,0.40740740299224854,experiments/89181
+preposition-subject,in,0.1260504275560379,experiments/406005
+preposition-object,in,0.0,experiments/406005
+preposition-subject,on,0.0,experiments/474914
+preposition-object,on,0.0,experiments/474914
+preposition-verb,on,0.0,experiments/474914
+preposition-subject,of,0.0004886391689069569,experiments/445648
+preposition-object,of,0.0,experiments/445648
+preposition-verb,of,0.0,experiments/445648
+preposition-subject,of,0.050632912665605545,experiments/539421
+preposition-object,of,0.0,experiments/539421
+preposition-subject,with,0.0,experiments/532615
+preposition-object,with,0.0,experiments/532615
+preposition-subject,in,0.0,experiments/234200
+preposition-object,in,0.0,experiments/234200
+preposition-subject,near,0.009429280646145344,experiments/683896
+preposition-object,near,0.0,experiments/683896
+preposition-verb,near,0.10000000149011612,experiments/683896
+preposition-subject,off,0.0,experiments/767578
+preposition-object,off,0.0,experiments/767578
+preposition-verb,off,0.0,experiments/767578
+preposition-subject,on,0.0,experiments/556566
+preposition-object,on,0.0,experiments/556566
+preposition-verb,on,0.0,experiments/556566
+preposition-subject,with,0.024026302620768547,experiments/288306
+preposition-object,with,0.03002309426665306,experiments/288306
+preposition-verb,with,0.0,experiments/288306
+preposition-subject,on,0.0,experiments/516848
+preposition-object,on,0.0,experiments/516848
+preposition-verb,on,0.0,experiments/516848
+preposition-subject,next to,0.0,experiments/766974
+preposition-object,next to,0.0,experiments/766974
+preposition-verb,next to,0.0,experiments/766974
+preposition-subject,with,0.03833865746855736,experiments/557521
+preposition-object,with,0.0881979689002037,experiments/557521
+preposition-subject,with,0.16748046875,experiments/120292
+preposition-object,with,0.0022753127850592136,experiments/120292
+preposition-verb,with,0.0,experiments/120292
+preposition-subject,at,0.0,experiments/437511
+preposition-object,at,0.0,experiments/437511
+preposition-verb,at,0.0,experiments/437511
+preposition-subject,of,0.0,experiments/728865
+preposition-object,of,0.0,experiments/728865
+preposition-verb,of,0.0,experiments/728865
+preposition-subject,for,0.0,experiments/222017
+preposition-object,for,0.0,experiments/222017
+preposition-verb,for,0.0,experiments/222017
+preposition-subject,of,0.0,experiments/28629
+preposition-object,of,0.0,experiments/28629
+preposition-verb,of,0.0,experiments/28629
+preposition-subject,on,0.06907378137111664,experiments/627885
+preposition-object,on,0.00577367190271616,experiments/627885
+preposition-verb,on,0.0,experiments/627885
+preposition-subject,next to,0.0,experiments/103400
+preposition-object,next to,0.0,experiments/103400
+preposition-verb,next to,0.0,experiments/103400
+preposition-subject,with,0.0,experiments/428289
+preposition-object,with,0.0,experiments/428289
+preposition-subject,wearing,0.15223097801208496,experiments/622459
+preposition-object,wearing,0.030574198812246323,experiments/622459
+preposition-subject,in,0.0,experiments/379917
+preposition-object,in,0.0,experiments/379917
+preposition-verb,in,0.0,experiments/379917
+preposition-subject,on,0.0,experiments/256138
+preposition-object,on,0.0,experiments/256138
+preposition-subject,of,0.02331606298685074,experiments/186764
+preposition-object,of,0.0,experiments/186764
+preposition-verb,of,0.05228758230805397,experiments/186764
+preposition-subject,at,0.0,experiments/823538
+preposition-object,at,0.0,experiments/823538
+preposition-verb,at,0.0,experiments/823538
+preposition-subject,holding,0.027522936463356018,experiments/42201
+preposition-object,holding,0.11224018782377243,experiments/42201
+preposition-subject,of,0.0,experiments/355611
+preposition-object,of,0.0,experiments/355611
+preposition-verb,of,0.0,experiments/355611
+preposition-subject,by,0.05191873759031296,experiments/365178
+preposition-object,by,0.0,experiments/365178
+preposition-verb,by,0.08510638028383255,experiments/365178
+preposition-subject,in,0.001399580156430602,experiments/720190
+preposition-object,in,0.24928998947143555,experiments/720190
+preposition-verb,in,0.03079076297581196,experiments/720190
+preposition-subject,in front of,0.0,experiments/583529
+preposition-object,in front of,0.0,experiments/583529
+preposition-verb,in front of,0.0,experiments/583529
+preposition-subject,of,0.19897586107254028,experiments/782299
+preposition-object,of,0.15279769897460938,experiments/782299
+preposition-verb,of,0.0,experiments/782299
+preposition-subject,in,0.5826589465141296,experiments/267879
+preposition-object,in,0.0,experiments/267879
+preposition-verb,in,0.0,experiments/267879
+preposition-subject,at,0.18714821338653564,experiments/313606
+preposition-object,at,0.1306818127632141,experiments/313606
+preposition-verb,at,0.29315197467803955,experiments/313606
+preposition-subject,with,0.00244140625,experiments/736388
+preposition-object,with,0.0005707762320525944,experiments/736388
+preposition-subject,in,0.0,experiments/410320
+preposition-object,in,0.0,experiments/410320
+preposition-subject,down,0.09255663305521011,experiments/609863
+preposition-object,down,0.0,experiments/609863
+preposition-verb,down,0.0,experiments/609863
+preposition-subject,at,0.519670307636261,experiments/305481
+preposition-object,at,0.2322995960712433,experiments/305481
+preposition-verb,at,0.0,experiments/305481
+preposition-subject,near,0.09648370742797852,experiments/547444
+preposition-object,near,0.040616247802972794,experiments/547444
+preposition-verb,near,0.0,experiments/547444
+preposition-subject,down,0.0,experiments/608156
+preposition-object,down,0.0,experiments/608156
+preposition-verb,down,0.0,experiments/608156
+preposition-subject,on,0.0012242898810654879,experiments/91825
+preposition-object,on,0.004597701132297516,experiments/91825
+preposition-verb,on,0.02604166604578495,experiments/91825
+preposition-subject,with,0.10120805352926254,experiments/173905
+preposition-object,with,0.47601011395454407,experiments/173905
+preposition-verb,with,0.0,experiments/173905
+preposition-subject,on,0.5385444760322571,experiments/642925
+preposition-object,on,0.17404980957508087,experiments/642925
+preposition-verb,on,0.0,experiments/642925
+preposition-subject,on,0.0,experiments/124648
+preposition-object,on,0.0,experiments/124648
+preposition-verb,on,0.0,experiments/124648
+preposition-subject,with,0.0,experiments/453451
+preposition-object,with,0.0,experiments/453451
+preposition-subject,in,0.0,experiments/657647
+preposition-object,in,0.0,experiments/657647
+preposition-verb,in,0.0,experiments/657647
+preposition-subject,while,0.009057970717549324,experiments/132631
+preposition-verb,while,0.0,experiments/132631
+preposition-subject,on,0.0,experiments/19289
+preposition-object,on,0.0,experiments/19289
+preposition-verb,on,0.0,experiments/19289
+preposition-subject,with,0.1594567447900772,experiments/85356
+preposition-object,with,0.2098245620727539,experiments/85356
+preposition-subject,with,0.8970156311988831,experiments/294186
+preposition-object,with,0.001908917329274118,experiments/294186
+preposition-subject,behind,0.0,experiments/230342
+preposition-object,behind,0.0,experiments/230342
+preposition-subject,on,0.0,experiments/113644
+preposition-object,on,0.0,experiments/113644
+preposition-verb,on,0.0,experiments/113644
+preposition-subject,in,0.0,experiments/316402
+preposition-object,in,0.0,experiments/316402
+preposition-verb,in,0.0,experiments/316402
+preposition-subject,on,0.0,experiments/205924
+preposition-object,on,0.0,experiments/205924
+preposition-verb,on,0.0,experiments/205924
+preposition-subject,on top of,0.0,experiments/466752
+preposition-object,on top of,0.0,experiments/466752
+preposition-verb,on top of,0.0,experiments/466752
+preposition-subject,of,0.0,experiments/115515
+preposition-object,of,0.14710946381092072,experiments/115515
+preposition-subject,with,0.7303206920623779,experiments/528472
+preposition-object,with,0.02761506289243698,experiments/528472
+preposition-subject,of,0.0,experiments/596147
+preposition-object,of,0.0,experiments/596147
+preposition-subject,of,0.0,experiments/726087
+preposition-object,of,0.0,experiments/726087
+preposition-subject,in,0.2380952388048172,experiments/662248
+preposition-object,in,0.008333333767950535,experiments/662248
+preposition-verb,in,0.03086419776082039,experiments/662248
+preposition-subject,on,0.0,experiments/96730
+preposition-object,on,0.0,experiments/96730
+preposition-verb,on,0.0,experiments/96730
+preposition-subject,along,0.009803921915590763,experiments/372266
+preposition-object,along,0.0,experiments/372266
+preposition-verb,along,0.039603959769010544,experiments/372266
+preposition-subject,on,0.0,experiments/85517
+preposition-object,on,0.0,experiments/85517
+preposition-verb,on,0.0,experiments/85517
+preposition-subject,in,0.0,experiments/629737
+preposition-object,in,0.0,experiments/629737
+preposition-verb,in,0.7567750811576843,experiments/629737
+preposition-subject,with,0.0,experiments/551900
+preposition-object,with,0.0,experiments/551900
+preposition-verb,with,0.0,experiments/551900
+preposition-subject,of,0.0,experiments/502560
+preposition-object,of,0.0,experiments/502560
+preposition-verb,of,0.0,experiments/502560
+preposition-subject,in,0.0,experiments/636144
+preposition-object,in,0.0,experiments/636144
+preposition-verb,in,0.0,experiments/636144
+preposition-subject,above,0.13081130385398865,experiments/128595
+preposition-object,above,0.0,experiments/128595
+preposition-verb,above,0.6493827104568481,experiments/128595
+preposition-subject,next to,0.0,experiments/545440
+preposition-object,next to,0.0,experiments/545440
+preposition-verb,next to,0.0,experiments/545440
+preposition-subject,in,0.0,experiments/381347
+preposition-object,in,0.0,experiments/381347
+preposition-verb,in,0.0,experiments/381347
+preposition-subject,during,0.02445652149617672,experiments/112506
+preposition-object,during,0.3082076907157898,experiments/112506
+preposition-verb,during,0.39566394686698914,experiments/112506
+preposition-subject,on,0.0,experiments/678081
+preposition-object,on,0.0,experiments/678081
+preposition-verb,on,0.0,experiments/678081
+preposition-subject,in,0.0,experiments/230147
+preposition-object,in,0.0,experiments/230147
+preposition-verb,in,0.0,experiments/230147
+preposition-subject,on,0.04116743430495262,experiments/641344
+preposition-object,on,0.0003770739131141454,experiments/641344
+preposition-verb,on,0.0,experiments/641344
+preposition-subject,with,0.02600472792983055,experiments/227167
+preposition-object,with,0.0,experiments/227167
+preposition-subject,on,0.0,experiments/416046
+preposition-object,on,0.0,experiments/416046
+preposition-verb,on,0.0,experiments/416046
+preposition-subject,in,0.08603852987289429,experiments/47166
+preposition-object,in,0.0,experiments/47166
+preposition-subject,in,0.0,experiments/807277
+preposition-object,in,0.0,experiments/807277
+preposition-subject,of,0.0,experiments/382961
+preposition-object,of,0.1818181872367859,experiments/382961
+preposition-subject,down,0.0,experiments/410741
+preposition-object,down,0.0,experiments/410741
+preposition-verb,down,0.0,experiments/410741
+preposition-subject,inside,0.0439189188182354,experiments/588235
+preposition-object,inside,0.008326827548444271,experiments/588235
+preposition-verb,inside,0.0,experiments/588235
+preposition-subject,near,0.0,experiments/397604
+preposition-object,near,0.0,experiments/397604
+preposition-verb,near,0.0,experiments/397604
+preposition-subject,under,0.667393684387207,experiments/429854
+preposition-object,under,0.15837214887142181,experiments/429854
+preposition-verb,under,0.22707854211330414,experiments/429854
+preposition-subject,on,0.0,experiments/329244
+preposition-object,on,0.0,experiments/329244
+preposition-verb,on,0.0,experiments/329244
+preposition-subject,with,0.0,experiments/90076
+preposition-object,with,0.0,experiments/90076
+preposition-verb,with,0.0,experiments/90076
+preposition-subject,of,0.0,experiments/28935
+preposition-object,of,0.0,experiments/28935
+preposition-verb,of,0.0,experiments/28935
+preposition-subject,at,0.0,experiments/95365
+preposition-object,at,0.0,experiments/95365
+preposition-verb,at,0.0,experiments/95365
+preposition-subject,from,0.0,experiments/342758
+preposition-object,from,0.0,experiments/342758
+preposition-subject,with,0.0009777561062946916,experiments/28968
+preposition-object,with,0.0014925373252481222,experiments/28968
+preposition-subject,on,0.0,experiments/16116
+preposition-object,on,0.0,experiments/16116
+preposition-subject,of,0.0,experiments/117489
+preposition-object,of,0.0,experiments/117489
+preposition-verb,of,0.0,experiments/117489
+preposition-subject,in front of,0.0,experiments/89252
+preposition-object,in front of,0.0,experiments/89252
+preposition-verb,in front of,0.0,experiments/89252
+preposition-subject,of,0.0,experiments/124198
+preposition-object,of,0.0,experiments/124198
+preposition-verb,of,0.0,experiments/124198
+preposition-subject,on,0.21795855462551117,experiments/35501
+preposition-object,on,0.17129071056842804,experiments/35501
+preposition-verb,on,0.0,experiments/35501
+preposition-subject,next to,0.0,experiments/202154
+preposition-object,next to,0.0,experiments/202154
+preposition-verb,next to,0.0,experiments/202154
+preposition-subject,in,0.0,experiments/788761
+preposition-object,in,0.0,experiments/788761
+preposition-verb,in,0.0,experiments/788761
+preposition-subject,at,0.0,experiments/683741
+preposition-object,at,0.0,experiments/683741
+preposition-verb,at,0.0,experiments/683741
+preposition-subject,of,0.0714285746216774,experiments/405306
+preposition-object,of,0.04482758790254593,experiments/405306
+preposition-verb,of,0.0,experiments/405306
+preposition-subject,on,0.6361788511276245,experiments/49858
+preposition-object,on,0.03060869500041008,experiments/49858
+preposition-verb,on,0.0,experiments/49858
+preposition-subject,down,0.024612579494714737,experiments/444841
+preposition-object,down,0.0,experiments/444841
+preposition-verb,down,0.0,experiments/444841
+preposition-subject,on,0.0,experiments/778772
+preposition-object,on,0.0,experiments/778772
+preposition-verb,on,0.0,experiments/778772
+preposition-subject,of,0.0,experiments/116285
+preposition-object,of,0.0,experiments/116285
+preposition-subject,on,0.0,experiments/100955
+preposition-object,on,0.0,experiments/100955
+preposition-verb,on,0.0,experiments/100955
+preposition-subject,with,0.8296112418174744,experiments/417938
+preposition-object,with,0.6189054846763611,experiments/417938
+preposition-verb,with,0.0,experiments/417938
+preposition-subject,on top of,0.0,experiments/288399
+preposition-object,on top of,0.0,experiments/288399
+preposition-verb,on top of,0.0,experiments/288399
+preposition-subject,of,0.0,experiments/372339
+preposition-object,of,0.0,experiments/372339
+preposition-verb,of,0.0,experiments/372339
+preposition-subject,on,0.0,experiments/178720
+preposition-object,on,0.0,experiments/178720
+preposition-verb,on,0.0,experiments/178720
+preposition-subject,at,0.0,experiments/558725
+preposition-object,at,0.0,experiments/558725
+preposition-verb,at,0.0,experiments/558725
+preposition-subject,of,0.0,experiments/477038
+preposition-object,of,0.0,experiments/477038
+preposition-verb,of,0.0,experiments/477038
+preposition-subject,up of,0.0,experiments/120872
+preposition-object,up of,0.0,experiments/120872
+preposition-subject,along,0.0,experiments/509219
+preposition-object,along,0.0,experiments/509219
+preposition-verb,along,0.0,experiments/509219
+preposition-subject,on,0.0,experiments/29791
+preposition-object,on,0.0,experiments/29791
+preposition-verb,on,0.0,experiments/29791
+preposition-subject,on,0.0,experiments/265185
+preposition-object,on,0.0,experiments/265185
+preposition-verb,on,0.0,experiments/265185
+preposition-subject,of,0.0,experiments/337623
+preposition-object,of,0.0,experiments/337623
+preposition-verb,of,0.0,experiments/337623
+preposition-subject,on top of,0.0,experiments/394398
+preposition-object,on top of,0.0,experiments/394398
+preposition-subject,to,0.0,experiments/665817
+preposition-object,to,0.0,experiments/665817
+preposition-verb,to,0.0,experiments/665817
+preposition-subject,on,0.0,experiments/777486
+preposition-object,on,0.0,experiments/777486
+preposition-verb,on,0.0,experiments/777486
+preposition-subject,close to,0.0,experiments/239012
+preposition-object,close to,0.0,experiments/239012
+preposition-verb,close to,0.0,experiments/239012
+preposition-subject,along,0.0002500625269021839,experiments/585034
+preposition-object,along,0.0,experiments/585034
+preposition-verb,along,0.0036900369450449944,experiments/585034
+preposition-subject,at,0.0,experiments/693738
+preposition-object,at,0.0,experiments/693738
+preposition-verb,at,0.0,experiments/693738
+preposition-subject,in,0.0014652014942839742,experiments/749538
+preposition-object,in,0.0009551098337396979,experiments/749538
+preposition-verb,in,0.0,experiments/749538
+preposition-subject,with,0.002390914596617222,experiments/309101
+preposition-object,with,0.01656314730644226,experiments/309101
+preposition-verb,with,0.0,experiments/309101
+preposition-subject,with,0.07588985562324524,experiments/56421
+preposition-object,with,0.0,experiments/56421
+preposition-verb,with,0.0,experiments/56421
+preposition-subject,in,0.0,experiments/45540
+preposition-object,in,0.0,experiments/45540
+preposition-verb,in,0.0,experiments/45540
+preposition-subject,within,0.0,experiments/42590
+preposition-object,within,0.0,experiments/42590
+preposition-verb,within,0.0,experiments/42590
+preposition-subject,on,0.0,experiments/284639
+preposition-object,on,0.0,experiments/284639
+preposition-verb,on,0.0,experiments/284639
+preposition-subject,of,0.0,experiments/741043
+preposition-object,of,0.0,experiments/741043
+preposition-subject,on,0.0,experiments/625601
+preposition-object,on,0.0,experiments/625601
+preposition-verb,on,0.0,experiments/625601
+preposition-subject,on,0.014806377701461315,experiments/437962
+preposition-object,on,0.0,experiments/437962
+preposition-subject,with,0.7070132493972778,experiments/415940
+preposition-object,with,0.7226194143295288,experiments/415940
+preposition-verb,with,0.0,experiments/415940
+preposition-subject,in,0.0005157297709956765,experiments/276146
+preposition-object,in,0.0,experiments/276146
+preposition-verb,in,0.0,experiments/276146
+preposition-subject,down,0.17014122009277344,experiments/713999
+preposition-object,down,0.017595307901501656,experiments/713999
+preposition-verb,down,0.0,experiments/713999
+preposition-subject,over,0.0138248847797513,experiments/398202
+preposition-object,over,0.0,experiments/398202
+preposition-verb,over,0.0,experiments/398202
+preposition-subject,in,0.0,experiments/695469
+preposition-object,in,0.0,experiments/695469
+preposition-verb,in,0.0,experiments/695469
+preposition-subject,in,0.26961833238601685,experiments/18752
+preposition-object,in,0.0,experiments/18752
+preposition-subject,in,0.0,experiments/748284
+preposition-object,in,0.0,experiments/748284
+preposition-subject,on,0.0,experiments/317596
+preposition-object,on,0.0,experiments/317596
+preposition-subject,in,0.0,experiments/292316
+preposition-object,in,0.0,experiments/292316
+preposition-subject,by,0.0063157896511256695,experiments/279284
+preposition-object,by,0.1818181872367859,experiments/279284
+preposition-verb,by,0.005563282407820225,experiments/279284
+preposition-subject,on,0.0,experiments/634909
+preposition-object,on,0.0,experiments/634909
+preposition-verb,on,0.0,experiments/634909
+preposition-subject,on,0.12774957716464996,experiments/365451
+preposition-object,on,0.0,experiments/365451
+preposition-subject,with,0.10779029875993729,experiments/298387
+preposition-object,with,0.8759765625,experiments/298387
+preposition-subject,on,0.025710418820381165,experiments/803576
+preposition-object,on,0.0,experiments/803576
+preposition-verb,on,0.0572916679084301,experiments/803576
+preposition-subject,in,0.0,experiments/352767
+preposition-object,in,0.0,experiments/352767
+preposition-subject,next to,0.0,experiments/88998
+preposition-object,next to,0.0,experiments/88998
+preposition-verb,next to,0.0,experiments/88998
+preposition-subject,with,0.01318359375,experiments/140717
+preposition-object,with,0.06100795790553093,experiments/140717
+preposition-subject,with,0.054054055362939835,experiments/13501
+preposition-object,with,0.015469062142074108,experiments/13501
+preposition-subject,with,0.0,experiments/682370
+preposition-object,with,0.0,experiments/682370
+preposition-subject,down,0.024467244744300842,experiments/51030
+preposition-object,down,0.010191846638917923,experiments/51030
+preposition-verb,down,0.0,experiments/51030
+preposition-subject,on top of,0.0,experiments/731486
+preposition-object,on top of,0.0,experiments/731486
+preposition-verb,on top of,0.0,experiments/731486
+preposition-subject,on,0.07829560339450836,experiments/634677
+preposition-object,on,0.07200416177511215,experiments/634677
+preposition-verb,on,0.0,experiments/634677
+preposition-subject,to,0.001475288881920278,experiments/432253
+preposition-object,to,0.001476014731451869,experiments/432253
+preposition-verb,to,0.0,experiments/432253
+preposition-subject,in,0.0,experiments/85466
+preposition-object,in,0.0,experiments/85466
+preposition-verb,in,0.0,experiments/85466
+preposition-subject,on,0.0,experiments/325695
+preposition-object,on,0.0,experiments/325695
+preposition-verb,on,0.0,experiments/325695
+preposition-subject,to,0.31118881702423096,experiments/305658
+preposition-object,to,0.0,experiments/305658
+preposition-verb,to,0.0,experiments/305658
+preposition-subject,onto,0.41144707798957825,experiments/752894
+preposition-object,onto,0.4377777874469757,experiments/752894
+preposition-verb,onto,0.0,experiments/752894
+preposition-subject,in,0.0,experiments/470426
+preposition-object,in,0.0,experiments/470426
+preposition-verb,in,0.0,experiments/470426
+preposition-subject,while,0.0,experiments/459634
+preposition-object,while,0.0,experiments/459634
+preposition-verb,while,0.0,experiments/459634
+preposition-subject,with,0.0338585302233696,experiments/67819
+preposition-object,with,0.14225351810455322,experiments/67819
+preposition-verb,with,0.7751938104629517,experiments/67819
+preposition-subject,next to,0.0,experiments/162131
+preposition-object,next to,0.0,experiments/162131
+preposition-verb,next to,0.0,experiments/162131
+preposition-subject,with,0.2981400489807129,experiments/80454
+preposition-object,with,0.010380622930824757,experiments/80454
+preposition-verb,with,0.0,experiments/80454
+preposition-subject,next to,0.029787234961986542,experiments/99535
+preposition-object,next to,0.005897219758480787,experiments/99535
+preposition-verb,next to,0.0,experiments/99535
+preposition-subject,with,0.0,experiments/546939
+preposition-object,with,0.0,experiments/546939
+preposition-subject,from,0.22235022485256195,experiments/541489
+preposition-object,from,0.0,experiments/541489
+preposition-verb,from,0.0,experiments/541489
+preposition-subject,at,0.0,experiments/801498
+preposition-object,at,0.0,experiments/801498
+preposition-verb,at,0.0,experiments/801498
+preposition-subject,on,0.0,experiments/799127
+preposition-object,on,0.0,experiments/799127
+preposition-verb,on,0.0,experiments/799127
+preposition-subject,in,0.006864988710731268,experiments/403531
+preposition-object,in,0.0,experiments/403531
+preposition-subject,full of,0.0004948045243509114,experiments/185421
+preposition-object,full of,0.0005122950533404946,experiments/185421
+preposition-verb,full of,0.0,experiments/185421
+preposition-subject,on,0.47071823477745056,experiments/192480
+preposition-object,on,0.0,experiments/192480
+preposition-subject,of,0.04439746215939522,experiments/805861
+preposition-object,of,0.0,experiments/805861
+preposition-verb,of,0.0,experiments/805861
+preposition-subject,of,0.0,experiments/10005
+preposition-object,of,0.0,experiments/10005
+preposition-subject,under,0.0,experiments/488802
+preposition-object,under,0.0,experiments/488802
+preposition-verb,under,0.0,experiments/488802
+preposition-subject,outside,0.0,experiments/734572
+preposition-object,outside,0.26777610182762146,experiments/734572
+preposition-verb,outside,0.0,experiments/734572
+preposition-subject,of,0.0,experiments/286374
+preposition-object,of,0.0,experiments/286374
+preposition-verb,of,0.0,experiments/286374
+preposition-subject,on,0.07221542298793793,experiments/249426
+preposition-object,on,0.0,experiments/249426
+preposition-verb,on,0.0,experiments/249426
+preposition-subject,into,0.07547169923782349,experiments/108635
+preposition-object,into,0.014204545877873898,experiments/108635
+preposition-verb,into,0.01886792480945587,experiments/108635
+preposition-subject,with,0.6908507943153381,experiments/197951
+preposition-object,with,0.06131138280034065,experiments/197951
+preposition-subject,with,0.05834885314106941,experiments/161071
+preposition-object,with,0.0,experiments/161071
+preposition-verb,with,0.0,experiments/161071
+preposition-subject,on,0.0,experiments/820227
+preposition-object,on,0.0,experiments/820227
+preposition-subject,on,0.004816955886781216,experiments/395448
+preposition-object,on,0.0,experiments/395448
+preposition-verb,on,0.0,experiments/395448
+preposition-subject,of,0.46423494815826416,experiments/781957
+preposition-object,of,0.2172260880470276,experiments/781957
+preposition-verb,of,0.0,experiments/781957
+preposition-subject,down,0.08381503075361252,experiments/514767
+preposition-object,down,0.0,experiments/514767
+preposition-verb,down,0.3122553527355194,experiments/514767
+preposition-subject,on,0.5461346507072449,experiments/64120
+preposition-object,on,0.09719721972942352,experiments/64120
+preposition-verb,on,0.010582010261714458,experiments/64120
+preposition-subject,in,0.16436463594436646,experiments/99243
+preposition-object,in,0.0,experiments/99243
+preposition-verb,in,0.0,experiments/99243
+preposition-subject,with,0.523902416229248,experiments/437504
+preposition-object,with,0.059759244322776794,experiments/437504
+preposition-verb,with,0.0,experiments/437504
+preposition-subject,against,0.004204993601888418,experiments/750387
+preposition-object,against,0.0,experiments/750387
+preposition-verb,against,0.0,experiments/750387
+preposition-subject,of,0.0,experiments/793665
+preposition-object,of,0.0,experiments/793665
+preposition-subject,on,0.6334422826766968,experiments/390681
+preposition-object,on,0.01703992299735546,experiments/390681
+preposition-verb,on,0.06581196933984756,experiments/390681
+preposition-subject,down,0.0,experiments/553339
+preposition-object,down,0.0,experiments/553339
+preposition-verb,down,0.0,experiments/553339
+preposition-subject,in,0.0,experiments/15540
+preposition-object,in,0.0,experiments/15540
+preposition-verb,in,0.0,experiments/15540
+preposition-subject,with,0.0,experiments/225142
+preposition-object,with,0.0,experiments/225142
+preposition-verb,with,0.0,experiments/225142
+preposition-subject,on,0.0,experiments/740758
+preposition-object,on,0.0,experiments/740758
+preposition-verb,on,0.0,experiments/740758
+preposition-subject,around,0.29770445823669434,experiments/660325
+preposition-object,around,0.0,experiments/660325
+preposition-verb,around,0.0,experiments/660325
+preposition-subject,in,0.0,experiments/582201
+preposition-object,in,0.0,experiments/582201
+preposition-verb,in,0.0,experiments/582201
+preposition-subject,on top of,0.0,experiments/734512
+preposition-object,on top of,0.0,experiments/734512
+preposition-verb,on top of,0.0,experiments/734512
+preposition-subject,at,0.0,experiments/5674
+preposition-object,at,0.0,experiments/5674
+preposition-verb,at,0.0,experiments/5674
+preposition-subject,on,0.0,experiments/80962
+preposition-object,on,0.0,experiments/80962
+preposition-subject,on top of,0.0,experiments/649150
+preposition-object,on top of,0.0,experiments/649150
+preposition-verb,on top of,0.0,experiments/649150
+preposition-subject,over,0.0,experiments/184586
+preposition-object,over,0.0,experiments/184586
+preposition-verb,over,0.0,experiments/184586
+preposition-subject,with,0.0,experiments/663372
+preposition-object,with,0.00223158928565681,experiments/663372
+preposition-verb,with,0.0,experiments/663372
+preposition-subject,in,0.3838541805744171,experiments/231024
+preposition-object,in,0.0,experiments/231024
+preposition-verb,in,0.0006784260622225702,experiments/231024
+preposition-subject,behind,0.5166162848472595,experiments/546308
+preposition-object,behind,0.11324234306812286,experiments/546308
+preposition-verb,behind,0.25770309567451477,experiments/546308
+preposition-subject,in,0.0,experiments/206616
+preposition-object,in,0.0,experiments/206616
+preposition-verb,in,0.0,experiments/206616
+preposition-subject,with,0.0032410870771855116,experiments/415508
+preposition-object,with,0.003173828125,experiments/415508
+preposition-subject,of,0.0,experiments/764204
+preposition-object,of,0.0,experiments/764204
+preposition-verb,of,0.0,experiments/764204
+preposition-subject,on,0.0,experiments/781669
+preposition-object,on,0.015575333498418331,experiments/781669
+preposition-verb,on,0.0,experiments/781669
+preposition-subject,in,0.34008097648620605,experiments/82115
+preposition-object,in,0.011904762126505375,experiments/82115
+preposition-verb,in,0.3366336524486542,experiments/82115
+preposition-subject,on top of,0.0,experiments/450330
+preposition-object,on top of,0.0,experiments/450330
+preposition-verb,on top of,0.0,experiments/450330
+preposition-subject,of,0.1538461595773697,experiments/806682
+preposition-object,of,0.07692307978868484,experiments/806682
+preposition-subject,inside,0.001983143389225006,experiments/815639
+preposition-object,inside,0.005899704992771149,experiments/815639
+preposition-verb,inside,0.08510638028383255,experiments/815639
+preposition-subject,in,0.0,experiments/60919
+preposition-object,in,0.0,experiments/60919
+preposition-verb,in,0.0,experiments/60919
+preposition-subject,onto,0.0,experiments/83431
+preposition-object,onto,0.0,experiments/83431
+preposition-verb,onto,0.0,experiments/83431
+preposition-subject,in,0.0,experiments/618295
+preposition-object,in,0.0,experiments/618295
+preposition-verb,in,0.0,experiments/618295
+preposition-subject,at,0.0,experiments/615829
+preposition-object,at,0.0,experiments/615829
+preposition-verb,at,0.0,experiments/615829
+preposition-subject,of,0.0,experiments/130665
+preposition-object,of,0.0,experiments/130665
+preposition-subject,in,0.0,experiments/692974
+preposition-object,in,0.0,experiments/692974
+preposition-verb,in,0.0,experiments/692974
+preposition-subject,with,0.5938864350318909,experiments/281190
+preposition-object,with,0.11002445220947266,experiments/281190
+preposition-verb,with,0.5941213369369507,experiments/281190
+preposition-subject,with,0.5813674330711365,experiments/608249
+preposition-object,with,0.28289473056793213,experiments/608249
+preposition-verb,with,0.0,experiments/608249
+preposition-subject,next to,0.0,experiments/19206
+preposition-object,next to,0.0,experiments/19206
+preposition-verb,next to,0.0,experiments/19206
+preposition-subject,through,0.13802605867385864,experiments/496655
+preposition-object,through,0.0,experiments/496655
+preposition-verb,through,0.5365853905677795,experiments/496655
+preposition-subject,on top of,0.0,experiments/545480
+preposition-object,on top of,0.0,experiments/545480
+preposition-verb,on top of,0.0,experiments/545480
+preposition-subject,on,0.29752954840660095,experiments/727177
+preposition-object,on,0.0021367522422224283,experiments/727177
+preposition-verb,on,0.08432432264089584,experiments/727177
+preposition-subject,into,0.07669322937726974,experiments/803862
+preposition-object,into,0.016233766451478004,experiments/803862
+preposition-verb,into,0.3191709816455841,experiments/803862
+preposition-subject,with,0.0,experiments/537310
+preposition-object,with,0.0,experiments/537310
+preposition-verb,with,0.0,experiments/537310
+preposition-subject,on,0.5984474420547485,experiments/24613
+preposition-object,on,0.030716722831130028,experiments/24613
+preposition-verb,on,0.0,experiments/24613
+preposition-subject,on,0.0,experiments/439617
+preposition-object,on,0.0,experiments/439617
+preposition-verb,on,0.0,experiments/439617
+preposition-subject,on,0.0,experiments/689812
+preposition-object,on,0.0,experiments/689812
+preposition-verb,on,0.0,experiments/689812
+preposition-subject,under,0.06465516984462738,experiments/365403
+preposition-object,under,0.008895865641534328,experiments/365403
+preposition-subject,on,0.0004093327734153718,experiments/66816
+preposition-object,on,0.0,experiments/66816
+preposition-verb,on,0.0,experiments/66816
+preposition-subject,down,0.08157099783420563,experiments/701236
+preposition-object,down,0.0,experiments/701236
+preposition-verb,down,0.5,experiments/701236
+preposition-subject,on,0.0,experiments/107862
+preposition-object,on,0.0,experiments/107862
+preposition-verb,on,0.0,experiments/107862
+preposition-subject,of,0.0,experiments/800471
+preposition-object,of,0.0,experiments/800471
+preposition-subject,with,0.0,experiments/54217
+preposition-object,with,0.0,experiments/54217
+preposition-verb,with,0.0,experiments/54217
+preposition-subject,down,0.0,experiments/254804
+preposition-object,down,0.0,experiments/254804
+preposition-verb,down,0.0,experiments/254804
+preposition-subject,on,0.0,experiments/437658
+preposition-object,on,0.0,experiments/437658
+preposition-verb,on,0.0,experiments/437658
+preposition-subject,on,0.0,experiments/311115
+preposition-object,on,0.015380859375,experiments/311115
+preposition-subject,with,0.520900309085846,experiments/437279
+preposition-object,with,0.08498971909284592,experiments/437279
+preposition-verb,with,0.16830293834209442,experiments/437279
+preposition-subject,with,0.25600001215934753,experiments/27196
+preposition-object,with,0.0,experiments/27196
+preposition-verb,with,0.0,experiments/27196
+preposition-subject,of,0.0,experiments/611788
+preposition-object,of,0.0,experiments/611788
+preposition-verb,of,0.0,experiments/611788
+preposition-subject,in front of,0.0,experiments/508887
+preposition-object,in front of,0.0,experiments/508887
+preposition-verb,in front of,0.0,experiments/508887
+preposition-subject,of,0.0,experiments/36258
+preposition-object,of,0.0,experiments/36258
+preposition-verb,of,0.0,experiments/36258
+preposition-subject,up of,0.0,experiments/590883
+preposition-object,up of,0.0,experiments/590883
+preposition-subject,of,0.3088934123516083,experiments/7322
+preposition-object,of,0.1638539433479309,experiments/7322
+preposition-verb,of,0.0,experiments/7322
+preposition-subject,holding,0.0030441400595009327,experiments/689338
+preposition-object,holding,0.0,experiments/689338
+preposition-subject,on,0.0,experiments/279064
+preposition-object,on,0.0,experiments/279064
+preposition-verb,on,0.0,experiments/279064
+preposition-subject,from,0.0,experiments/325661
+preposition-object,from,0.0,experiments/325661
+preposition-verb,from,0.0,experiments/325661
+preposition-subject,against,0.18913786113262177,experiments/799695
+preposition-object,against,0.0031104199588298798,experiments/799695
+preposition-verb,against,0.0,experiments/799695
+preposition-subject,of,0.6721311211585999,experiments/19511
+preposition-object,of,0.0,experiments/19511
+preposition-verb,of,0.0,experiments/19511
+preposition-subject,on,0.0,experiments/9067
+preposition-object,on,0.0,experiments/9067
+preposition-verb,on,0.0,experiments/9067
+preposition-subject,with,0.614067554473877,experiments/263827
+preposition-object,with,0.3470975458621979,experiments/263827
+preposition-subject,on,0.0,experiments/620109
+preposition-object,on,0.0,experiments/620109
+preposition-verb,on,0.0,experiments/620109
+preposition-subject,on top of,0.0,experiments/582555
+preposition-object,on top of,0.0,experiments/582555
+preposition-verb,on top of,0.0,experiments/582555
+preposition-subject,on,0.1589404046535492,experiments/388446
+preposition-object,on,0.0,experiments/388446
+preposition-verb,on,0.20000000298023224,experiments/388446
+preposition-subject,in,0.567803680896759,experiments/354119
+preposition-object,in,0.0250278078019619,experiments/354119
+preposition-verb,in,0.0,experiments/354119
+preposition-subject,with,0.0,experiments/495052
+preposition-object,with,0.0,experiments/495052
+preposition-verb,with,0.0,experiments/495052
+preposition-subject,on,0.0,experiments/476134
+preposition-object,on,0.0,experiments/476134
+preposition-verb,on,0.0,experiments/476134
+preposition-subject,on,0.0,experiments/284494
+preposition-object,on,0.0,experiments/284494
+preposition-verb,on,0.0,experiments/284494
+preposition-subject,with,0.0,experiments/592313
+preposition-object,with,0.16658379137516022,experiments/592313
+preposition-verb,with,0.0,experiments/592313
+preposition-subject,next to,0.0,experiments/571741
+preposition-object,next to,0.0,experiments/571741
+preposition-verb,next to,0.0,experiments/571741
+preposition-subject,in,0.3398328721523285,experiments/132569
+preposition-object,in,0.0,experiments/132569
+preposition-subject,of,0.0,experiments/139974
+preposition-object,of,0.0,experiments/139974
+preposition-subject,with,0.5404255390167236,experiments/199225
+preposition-object,with,0.24821917712688446,experiments/199225
+preposition-verb,with,0.25,experiments/199225
+preposition-subject,with,0.0,experiments/336796
+preposition-object,with,0.0,experiments/336796
+preposition-verb,with,0.0,experiments/336796
+preposition-subject,of,0.0,experiments/621647
+preposition-object,of,0.0,experiments/621647
+preposition-subject,in,0.10309973359107971,experiments/612871
+preposition-object,in,0.10465116053819656,experiments/612871
+preposition-verb,in,0.0,experiments/612871
+preposition-subject,in,0.022101938724517822,experiments/217501
+preposition-object,in,0.003968254197388887,experiments/217501
+preposition-verb,in,0.0,experiments/217501
+preposition-subject,inside of,0.0,experiments/646821
+preposition-object,inside of,0.0,experiments/646821
+preposition-verb,inside of,0.0,experiments/646821
+preposition-subject,with,0.7817460298538208,experiments/364032
+preposition-object,with,0.10252707451581955,experiments/364032
+preposition-subject,in,0.0,experiments/307729
+preposition-object,in,0.0,experiments/307729
+preposition-verb,in,0.0,experiments/307729
+preposition-subject,in,0.0,experiments/188356
+preposition-object,in,0.0,experiments/188356
+preposition-subject,on top of,0.0,experiments/133732
+preposition-object,on top of,0.0,experiments/133732
+preposition-verb,on top of,0.0,experiments/133732
+preposition-subject,by,0.3977673351764679,experiments/463944
+preposition-object,by,0.3053666055202484,experiments/463944
+preposition-verb,by,0.0,experiments/463944
+preposition-subject,in,0.9002398252487183,experiments/282935
+preposition-object,in,0.0,experiments/282935
+preposition-verb,in,0.0,experiments/282935
+preposition-subject,on,0.09053155779838562,experiments/270332
+preposition-object,on,0.2658916711807251,experiments/270332
+preposition-verb,on,0.4672435224056244,experiments/270332
+preposition-subject,in front of,0.0,experiments/608927
+preposition-object,in front of,0.0,experiments/608927
+preposition-verb,in front of,0.0,experiments/608927
+preposition-subject,in,0.0,experiments/769951
+preposition-object,in,0.0,experiments/769951
+preposition-verb,in,0.0,experiments/769951
+preposition-subject,by,0.0,experiments/655278
+preposition-object,by,0.0,experiments/655278
+preposition-verb,by,0.0,experiments/655278
+preposition-subject,in,0.0,experiments/382456
+preposition-object,in,0.0,experiments/382456
+preposition-verb,in,0.0,experiments/382456
+preposition-subject,in,0.0,experiments/537248
+preposition-object,in,0.022900763899087906,experiments/537248
+preposition-subject,of,0.01573849841952324,experiments/172204
+preposition-object,of,0.03159851208329201,experiments/172204
+preposition-subject,with,0.33149170875549316,experiments/146221
+preposition-object,with,0.0,experiments/146221
+preposition-subject,of,0.0,experiments/645671
+preposition-object,of,0.0,experiments/645671
+preposition-subject,with,0.03976608067750931,experiments/135679
+preposition-object,with,0.0,experiments/135679
+preposition-subject,down,0.29729729890823364,experiments/17781
+preposition-object,down,0.15328466892242432,experiments/17781
+preposition-verb,down,0.0361328125,experiments/17781
+preposition-subject,near,0.0,experiments/621004
+preposition-object,near,0.0,experiments/621004
+preposition-verb,near,0.0,experiments/621004
+preposition-subject,with,0.0005574136157520115,experiments/127936
+preposition-object,with,0.0044247787445783615,experiments/127936
+preposition-verb,with,0.009900989942252636,experiments/127936
+preposition-subject,on,0.0,experiments/64555
+preposition-object,on,0.0,experiments/64555
+preposition-verb,on,0.0,experiments/64555
+preposition-subject,through,0.03477051481604576,experiments/649919
+preposition-object,through,0.0,experiments/649919
+preposition-verb,through,0.0,experiments/649919
+preposition-subject,with,0.07832618057727814,experiments/289053
+preposition-object,with,0.17105263471603394,experiments/289053
+preposition-subject,for,0.0,experiments/258341
+preposition-object,for,0.0,experiments/258341
+preposition-verb,for,0.0,experiments/258341
+preposition-subject,from,0.08510638028383255,experiments/295528
+preposition-object,from,0.0,experiments/295528
+preposition-verb,from,0.0,experiments/295528
+preposition-subject,next to,0.0,experiments/171485
+preposition-object,next to,0.0,experiments/171485
+preposition-verb,next to,0.0,experiments/171485
+preposition-subject,with,0.30985140800476074,experiments/240960
+preposition-object,with,0.03311258181929588,experiments/240960
+preposition-verb,with,0.0,experiments/240960
+preposition-subject,by,0.0,experiments/12332
+preposition-object,by,0.0,experiments/12332
+preposition-verb,by,0.0,experiments/12332
+preposition-subject,of,0.0,experiments/247623
+preposition-object,of,0.0,experiments/247623
+preposition-verb,of,0.0,experiments/247623
+preposition-subject,on,0.0,experiments/808901
+preposition-object,on,0.0,experiments/808901
+preposition-verb,on,0.0,experiments/808901
+preposition-subject,in,0.0,experiments/172017
+preposition-object,in,0.0,experiments/172017
+preposition-verb,in,0.0,experiments/172017
+preposition-subject,while,0.008064515888690948,experiments/220908
+preposition-verb,while,0.0,experiments/220908
+preposition-subject,of,0.0,experiments/393304
+preposition-object,of,0.0,experiments/393304
+preposition-verb,of,0.0,experiments/393304
+preposition-subject,into,0.6488942503929138,experiments/529121
+preposition-object,into,0.0,experiments/529121
+preposition-verb,into,0.0,experiments/529121
+preposition-subject,under,0.10792192816734314,experiments/501774
+preposition-object,under,0.46351802349090576,experiments/501774
+preposition-verb,under,0.7887389659881592,experiments/501774
+preposition-subject,with,0.624021589756012,experiments/610637
+preposition-object,with,0.6894946694374084,experiments/610637
+preposition-verb,with,0.0,experiments/610637
+preposition-subject,on,0.0,experiments/293778
+preposition-object,on,0.0,experiments/293778
+preposition-subject,over,0.7483824491500854,experiments/213625
+preposition-object,over,0.06583969295024872,experiments/213625
+preposition-verb,over,0.43515849113464355,experiments/213625
+preposition-subject,in,0.0,experiments/365267
+preposition-object,in,0.0,experiments/365267
+preposition-subject,on,0.04990583658218384,experiments/819038
+preposition-object,on,0.0,experiments/819038
+preposition-verb,on,0.030751708894968033,experiments/819038
+preposition-subject,in,0.21140609681606293,experiments/416688
+preposition-object,in,0.03959708288311958,experiments/416688
+preposition-verb,in,0.4583333432674408,experiments/416688
+preposition-subject,of,0.0,experiments/10939
+preposition-object,of,0.0,experiments/10939
+preposition-verb,of,0.0,experiments/10939
+preposition-subject,next to,0.0,experiments/218551
+preposition-object,next to,0.0,experiments/218551
+preposition-verb,next to,0.0,experiments/218551
+preposition-subject,outside of,0.0,experiments/443745
+preposition-object,outside of,0.0,experiments/443745
+preposition-verb,outside of,0.0,experiments/443745
+preposition-subject,outside,0.0,experiments/602995
+preposition-verb,outside,0.0,experiments/602995
+preposition-subject,with,0.00244140625,experiments/364002
+preposition-object,with,0.0,experiments/364002
+preposition-verb,with,0.0,experiments/364002
+preposition-subject,on,0.0,experiments/678615
+preposition-object,on,0.0,experiments/678615
+preposition-verb,on,0.0,experiments/678615
+preposition-subject,on,0.034161489456892014,experiments/144314
+preposition-object,on,0.0,experiments/144314
+preposition-subject,in,0.693359375,experiments/83356
+preposition-object,in,0.40598592162132263,experiments/83356
+preposition-verb,in,0.0,experiments/83356
+preposition-subject,in,0.0,experiments/711331
+preposition-object,in,0.0,experiments/711331
+preposition-subject,next to,0.0,experiments/78248
+preposition-object,next to,0.0,experiments/78248
+preposition-subject,of,0.0,experiments/566190
+preposition-object,of,0.0,experiments/566190
+preposition-verb,of,0.0,experiments/566190
+preposition-subject,next to,0.0,experiments/575496
+preposition-object,next to,0.000776397529989481,experiments/575496
+preposition-verb,next to,0.0,experiments/575496
+preposition-subject,on,0.0,experiments/320237
+preposition-object,on,0.0,experiments/320237
+preposition-verb,on,0.0,experiments/320237
+preposition-subject,with,0.4566679894924164,experiments/589360
+preposition-object,with,0.04060475155711174,experiments/589360
+preposition-subject,in,0.0,experiments/598587
+preposition-object,in,0.0,experiments/598587
+preposition-verb,in,0.0,experiments/598587
+preposition-subject,on,0.0,experiments/791839
+preposition-object,on,0.0,experiments/791839
+preposition-verb,on,0.0,experiments/791839
+preposition-subject,in,0.0,experiments/362158
+preposition-object,in,0.0,experiments/362158
+preposition-subject,on,0.0007942811935208738,experiments/824310
+preposition-object,on,0.0,experiments/824310
+preposition-verb,on,0.0,experiments/824310
+preposition-subject,with,0.0,experiments/23795
+preposition-object,with,0.0,experiments/23795
+preposition-verb,with,0.0,experiments/23795
+preposition-subject,outside,0.0,experiments/142944
+preposition-object,outside,0.0,experiments/142944
+preposition-verb,outside,0.0,experiments/142944
+preposition-subject,by,0.0,experiments/201854
+preposition-object,by,0.0,experiments/201854
+preposition-verb,by,0.0,experiments/201854
+preposition-subject,with,0.6650732755661011,experiments/545818
+preposition-object,with,0.5442200303077698,experiments/545818
+preposition-subject,next to,0.0,experiments/306502
+preposition-object,next to,0.0,experiments/306502
+preposition-verb,next to,0.0,experiments/306502
+preposition-subject,over,0.5971917510032654,experiments/788243
+preposition-object,over,0.29575473070144653,experiments/788243
+preposition-verb,over,0.5739611983299255,experiments/788243
+preposition-subject,of,0.1724637746810913,experiments/576134
+preposition-object,of,0.1005619615316391,experiments/576134
+preposition-subject,on,0.0,experiments/151599
+preposition-object,on,0.0,experiments/151599
+preposition-verb,on,0.0,experiments/151599
+preposition-subject,on,0.0,experiments/361401
+preposition-object,on,0.0,experiments/361401
+preposition-verb,on,0.0,experiments/361401
+preposition-subject,along,0.003859513672068715,experiments/791706
+preposition-object,along,0.007923929952085018,experiments/791706
+preposition-verb,along,0.0025271670892834663,experiments/791706
+preposition-subject,at,0.0,experiments/513603
+preposition-object,at,0.0,experiments/513603
+preposition-verb,at,0.0,experiments/513603
+preposition-subject,in,0.017123287543654442,experiments/229653
+preposition-object,in,0.0,experiments/229653
+preposition-verb,in,0.02380952425301075,experiments/229653
+preposition-subject,in,0.20532914996147156,experiments/218247
+preposition-object,in,0.12455606460571289,experiments/218247
+preposition-verb,in,0.0,experiments/218247
+preposition-subject,in,0.0,experiments/164776
+preposition-object,in,0.0,experiments/164776
+preposition-verb,in,0.0,experiments/164776
+preposition-subject,at,0.007181328721344471,experiments/596266
+preposition-object,at,0.0,experiments/596266
+preposition-verb,at,0.0,experiments/596266
+preposition-subject,on,0.041228555142879486,experiments/717890
+preposition-object,on,0.09889094531536102,experiments/717890
+preposition-verb,on,0.16874292492866516,experiments/717890
+preposition-subject,with,0.0,experiments/82346
+preposition-object,with,0.0,experiments/82346
+preposition-verb,with,0.0,experiments/82346
+preposition-subject,of,0.0,experiments/509678
+preposition-object,of,0.0,experiments/509678
+preposition-subject,on,0.022737819701433182,experiments/267482
+preposition-object,on,0.007726979907602072,experiments/267482
+preposition-verb,on,0.0,experiments/267482
+preposition-subject,next to,0.0,experiments/402565
+preposition-object,next to,0.0,experiments/402565
+preposition-verb,next to,0.0,experiments/402565
+preposition-subject,of,0.0,experiments/696481
+preposition-object,of,0.0,experiments/696481
+preposition-subject,through,0.08648648858070374,experiments/470217
+preposition-object,through,0.0,experiments/470217
+preposition-verb,through,0.0,experiments/470217
+preposition-subject,near,0.03335557132959366,experiments/755087
+preposition-object,near,0.046283308416604996,experiments/755087
+preposition-verb,near,0.0,experiments/755087
+preposition-subject,in,0.0,experiments/43485
+preposition-object,in,0.0,experiments/43485
+preposition-verb,in,0.0,experiments/43485
+preposition-subject,of,0.6140559911727905,experiments/287235
+preposition-object,of,0.08973173052072525,experiments/287235
+preposition-verb,of,0.0,experiments/287235
+preposition-subject,of,0.0,experiments/632761
+preposition-object,of,0.0,experiments/632761
+preposition-verb,of,0.0,experiments/632761
+preposition-subject,down,0.0,experiments/393045
+preposition-object,down,0.0,experiments/393045
+preposition-verb,down,0.0,experiments/393045
+preposition-subject,behind,0.06315789371728897,experiments/539197
+preposition-object,behind,0.02215719036757946,experiments/539197
+preposition-verb,behind,0.0,experiments/539197
+preposition-subject,at,0.0,experiments/402485
+preposition-object,at,0.0,experiments/402485
+preposition-verb,at,0.0,experiments/402485
+preposition-subject,in,0.0,experiments/782138
+preposition-object,in,0.0,experiments/782138
+preposition-verb,in,0.0,experiments/782138
+preposition-subject,on,0.0,experiments/483268
+preposition-object,on,0.0,experiments/483268
+preposition-verb,on,0.0,experiments/483268
+preposition-subject,at,0.012987012974917889,experiments/140808
+preposition-object,at,0.0,experiments/140808
+preposition-verb,at,0.0,experiments/140808
+preposition-subject,on,0.13461539149284363,experiments/564124
+preposition-object,on,0.01781376451253891,experiments/564124
+preposition-verb,on,0.0,experiments/564124
+preposition-subject,on,0.27136752009391785,experiments/1325
+preposition-object,on,0.0,experiments/1325
+preposition-verb,on,0.0,experiments/1325
+preposition-subject,with,0.025544388219714165,experiments/300166
+preposition-object,with,0.0747826099395752,experiments/300166
+preposition-verb,with,0.02534562163054943,experiments/300166
+preposition-subject,of,0.20000000298023224,experiments/694632
+preposition-object,of,0.0,experiments/694632
+preposition-subject,while,0.4344096779823303,experiments/574673
+preposition-object,while,0.0,experiments/574673
+preposition-verb,while,0.049291785806417465,experiments/574673
+preposition-subject,back to,0.0,experiments/94048
+preposition-object,back to,0.0,experiments/94048
+preposition-verb,back to,0.0,experiments/94048
+preposition-subject,up and out,0.0,experiments/581006
+preposition-object,up and out,0.0,experiments/581006
+preposition-verb,up and out,0.0,experiments/581006
+preposition-subject,on,0.9285213947296143,experiments/580374
+preposition-object,on,0.0006099420716054738,experiments/580374
+preposition-subject,in,0.0,experiments/253972
+preposition-object,in,0.0,experiments/253972
+preposition-subject,with,0.0,experiments/645137
+preposition-object,with,0.0,experiments/645137
+preposition-verb,with,0.0,experiments/645137
+preposition-subject,of,0.0,experiments/689721
+preposition-object,of,0.0,experiments/689721
+preposition-subject,of,0.0,experiments/539502
+preposition-object,of,0.0,experiments/539502
+preposition-verb,of,0.0,experiments/539502
+preposition-subject,with,0.7012515068054199,experiments/27550
+preposition-object,with,0.0,experiments/27550
+preposition-subject,in,0.0,experiments/116758
+preposition-object,in,0.0,experiments/116758
+preposition-verb,in,0.0,experiments/116758
+preposition-subject,next to,0.0,experiments/450341
+preposition-object,next to,0.0,experiments/450341
+preposition-verb,next to,0.0,experiments/450341
+preposition-subject,on,0.0,experiments/308156
+preposition-verb,on,0.0,experiments/308156
+preposition-subject,in,0.0,experiments/278736
+preposition-object,in,0.0,experiments/278736
+preposition-verb,in,0.0,experiments/278736
+preposition-subject,covered,0.0011383038945496082,experiments/14367
+preposition-object,covered,0.0,experiments/14367
+preposition-verb,covered,0.0,experiments/14367
+preposition-subject,in,0.09456264972686768,experiments/743185
+preposition-object,in,0.006401137914508581,experiments/743185
+preposition-subject,of,0.0,experiments/176014
+preposition-object,of,0.0,experiments/176014
+preposition-verb,of,0.0,experiments/176014
+preposition-subject,with,0.0,experiments/287034
+preposition-object,with,0.0,experiments/287034
+preposition-verb,with,0.0,experiments/287034
+preposition-subject,with,0.05174948647618294,experiments/607811
+preposition-object,with,0.05000000074505806,experiments/607811
+preposition-subject,on,0.0,experiments/423073
+preposition-object,on,0.0,experiments/423073
+preposition-subject,of,0.0,experiments/705508
+preposition-object,of,0.0,experiments/705508
+preposition-verb,of,0.0,experiments/705508
+preposition-subject,on,0.13672316074371338,experiments/272978
+preposition-object,on,0.0,experiments/272978
+preposition-verb,on,0.0,experiments/272978
+preposition-subject,down,0.0,experiments/504873
+preposition-object,down,0.0,experiments/504873
+preposition-verb,down,0.0,experiments/504873
+preposition-subject,in,0.336669921875,experiments/310705
+preposition-object,in,0.03978622332215309,experiments/310705
+preposition-verb,in,0.0007246377062983811,experiments/310705
+preposition-subject,of,0.9448717832565308,experiments/633196
+preposition-object,of,0.20991645753383636,experiments/633196
+preposition-subject,between,0.834645688533783,experiments/515298
+preposition-object,between,0.0,experiments/515298
+preposition-verb,between,0.0,experiments/515298
+preposition-subject,beside,0.0,experiments/466579
+preposition-object,beside,0.0,experiments/466579
+preposition-verb,beside,0.0,experiments/466579
+preposition-subject,up,0.0,experiments/555277
+preposition-object,up,0.0,experiments/555277
+preposition-verb,up,0.0,experiments/555277
+preposition-subject,on,0.0,experiments/41273
+preposition-object,on,0.0,experiments/41273
+preposition-verb,on,0.0,experiments/41273
+preposition-subject,with,0.14529915153980255,experiments/531963
+preposition-object,with,0.0037197768688201904,experiments/531963
+preposition-subject,to,0.0,experiments/544394
+preposition-object,to,0.0,experiments/544394
+preposition-verb,to,0.0,experiments/544394
+preposition-subject,on,0.3965822160243988,experiments/59063
+preposition-object,on,0.031578946858644485,experiments/59063
+preposition-subject,in,0.0,experiments/608865
+preposition-object,in,0.0,experiments/608865
+preposition-verb,in,0.0,experiments/608865
+preposition-subject,next to,0.0,experiments/95355
+preposition-object,next to,0.0,experiments/95355
+preposition-subject,of,0.0,experiments/661916
+preposition-object,of,0.0,experiments/661916
+preposition-subject,wearing,0.0,experiments/466173
+preposition-object,wearing,0.0,experiments/466173
+preposition-verb,wearing,0.0,experiments/466173
+preposition-subject,in front of,0.0,experiments/775122
+preposition-object,in front of,0.0,experiments/775122
+preposition-verb,in front of,0.0,experiments/775122
+preposition-subject,outside,0.07014784216880798,experiments/327795
+preposition-verb,outside,0.9267189502716064,experiments/327795
+preposition-subject,by,0.0,experiments/298797
+preposition-verb,by,0.0,experiments/298797
+preposition-subject,by,0.17987805604934692,experiments/815339
+preposition-object,by,0.0017574692610651255,experiments/815339
+preposition-verb,by,0.13563218712806702,experiments/815339
+preposition-subject,on,0.0,experiments/311491
+preposition-object,on,0.0,experiments/311491
+preposition-verb,on,0.0,experiments/311491
+preposition-subject,to,0.0,experiments/160532
+preposition-object,to,0.0,experiments/160532
+preposition-verb,to,0.0,experiments/160532
+preposition-subject,of,0.0,experiments/326549
+preposition-object,of,0.0,experiments/326549
+preposition-verb,of,0.0,experiments/326549
+preposition-subject,on,0.028021978214383125,experiments/816701
+preposition-object,on,0.0,experiments/816701
+preposition-verb,on,0.08279220759868622,experiments/816701
+preposition-subject,in,0.026611328125,experiments/799262
+preposition-object,in,0.00917431153357029,experiments/799262
+preposition-subject,out of,0.0,experiments/740941
+preposition-object,out of,0.0,experiments/740941
+preposition-verb,out of,0.0,experiments/740941
+preposition-subject,atop,0.0,experiments/86285
+preposition-object,atop,0.0012233912711963058,experiments/86285
+preposition-verb,atop,0.04444444552063942,experiments/86285
+preposition-subject,down into,0.0,experiments/644252
+preposition-object,down into,0.0,experiments/644252
+preposition-verb,down into,0.0,experiments/644252
+preposition-subject,on,0.0,experiments/752139
+preposition-object,on,0.0,experiments/752139
+preposition-verb,on,0.0,experiments/752139
+preposition-subject,of,0.0,experiments/662529
+preposition-object,of,0.0,experiments/662529
+preposition-verb,of,0.0,experiments/662529
+preposition-subject,up,0.0,experiments/257350
+preposition-object,up,0.0,experiments/257350
+preposition-verb,up,0.0,experiments/257350
+preposition-subject,with,0.43882977962493896,experiments/34506
+preposition-object,with,0.0,experiments/34506
+preposition-verb,with,0.0,experiments/34506
+preposition-subject,on,0.00582524249330163,experiments/535791
+preposition-object,on,0.01602262072265148,experiments/535791
+preposition-subject,of,0.0,experiments/187614
+preposition-object,of,0.0,experiments/187614
+preposition-subject,in,0.0009794319048523903,experiments/282314
+preposition-object,in,0.002530044177547097,experiments/282314
+preposition-verb,in,0.0,experiments/282314
+preposition-subject,with,0.29696133732795715,experiments/39963
+preposition-object,with,0.0063775512389838696,experiments/39963
+preposition-verb,with,0.0,experiments/39963
+preposition-subject,at,0.0,experiments/289076
+preposition-object,at,0.0,experiments/289076
+preposition-verb,at,0.0,experiments/289076
+preposition-subject,with,0.3713977038860321,experiments/296788
+preposition-object,with,0.09702828526496887,experiments/296788
+preposition-verb,with,0.0,experiments/296788
+preposition-subject,in,0.012847325764596462,experiments/709076
+preposition-object,in,0.012402653694152832,experiments/709076
+preposition-verb,in,0.0,experiments/709076
+preposition-subject,in,0.1693163812160492,experiments/43237
+preposition-object,in,0.0,experiments/43237
+preposition-verb,in,0.0,experiments/43237
+preposition-subject,at,0.02015412040054798,experiments/665330
+preposition-object,at,0.033195022493600845,experiments/665330
+preposition-verb,at,0.2750444710254669,experiments/665330
+preposition-subject,in,0.026123046875,experiments/719016
+preposition-object,in,0.0,experiments/719016
+preposition-verb,in,0.09333333373069763,experiments/719016
+preposition-subject,on,0.0,experiments/787777
+preposition-object,on,0.0,experiments/787777
+preposition-verb,on,0.0,experiments/787777
+preposition-subject,down,0.0011467889416962862,experiments/603981
+preposition-object,down,0.001099505228921771,experiments/603981
+preposition-verb,down,0.0,experiments/603981
+preposition-subject,in,0.0,experiments/52927
+preposition-object,in,0.0,experiments/52927
+preposition-verb,in,0.0,experiments/52927
+preposition-subject,on,0.0,experiments/573568
+preposition-object,on,0.0,experiments/573568
+preposition-verb,on,0.0,experiments/573568
+preposition-subject,in,0.0,experiments/788548
+preposition-object,in,0.0,experiments/788548
+preposition-subject,with,0.47277557849884033,experiments/725274
+preposition-object,with,0.5597484111785889,experiments/725274
+preposition-subject,with,0.0,experiments/17147
+preposition-object,with,0.0,experiments/17147
+preposition-verb,with,0.0,experiments/17147
+preposition-subject,with,0.0,experiments/36020
+preposition-object,with,0.0,experiments/36020
+preposition-subject,on,0.5967789888381958,experiments/656016
+preposition-object,on,0.0,experiments/656016
+preposition-subject,in,0.0,experiments/645206
+preposition-object,in,0.0,experiments/645206
+preposition-verb,in,0.0,experiments/645206
+preposition-subject,against,0.0,experiments/124333
+preposition-object,against,0.0,experiments/124333
+preposition-subject,on,0.10498046875,experiments/389458
+preposition-object,on,0.02404465526342392,experiments/389458
+preposition-verb,on,0.0,experiments/389458
+preposition-subject,on,0.0,experiments/73459
+preposition-object,on,0.0,experiments/73459
+preposition-verb,on,0.0,experiments/73459
+preposition-subject,besides,0.0,experiments/753713
+preposition-object,besides,0.0,experiments/753713
+preposition-verb,besides,0.0,experiments/753713
+preposition-subject,of,0.0,experiments/255371
+preposition-object,of,0.0,experiments/255371
+preposition-verb,of,0.0,experiments/255371
+preposition-subject,on,0.0,experiments/428116
+preposition-object,on,0.0,experiments/428116
+preposition-verb,on,0.0,experiments/428116
+preposition-subject,on,0.2635135054588318,experiments/234555
+preposition-object,on,0.0,experiments/234555
+preposition-subject,next to,0.0,experiments/384810
+preposition-object,next to,0.0,experiments/384810
+preposition-verb,next to,0.0,experiments/384810
+preposition-subject,beside,0.0053571430034935474,experiments/213978
+preposition-object,beside,0.0,experiments/213978
+preposition-verb,beside,0.0,experiments/213978
+preposition-subject,over,0.0,experiments/107446
+preposition-object,over,0.0,experiments/107446
+preposition-verb,over,0.0,experiments/107446
+preposition-subject,with,0.5424628257751465,experiments/192564
+preposition-object,with,0.4424580931663513,experiments/192564
+preposition-subject,at,0.10613718628883362,experiments/377135
+preposition-object,at,0.0,experiments/377135
+preposition-verb,at,0.0,experiments/377135
+preposition-subject,in,0.0,experiments/595468
+preposition-object,in,0.0,experiments/595468
+preposition-verb,in,0.0,experiments/595468
+preposition-subject,of,0.0,experiments/209760
+preposition-object,of,0.0,experiments/209760
+preposition-verb,of,0.0,experiments/209760
+preposition-subject,in,0.0,experiments/349476
+preposition-object,in,0.0,experiments/349476
+preposition-verb,in,0.0,experiments/349476
+preposition-subject,with,0.07146555930376053,experiments/482599
+preposition-object,with,0.6601892113685608,experiments/482599
+preposition-subject,through,0.282527893781662,experiments/454968
+preposition-object,through,0.012430938892066479,experiments/454968
+preposition-verb,through,0.2631579041481018,experiments/454968
+preposition-subject,on,0.0,experiments/100624
+preposition-object,on,0.0,experiments/100624
+preposition-verb,on,0.0,experiments/100624
+preposition-subject,of,0.5957345962524414,experiments/373588
+preposition-object,of,0.42747825384140015,experiments/373588
+preposition-subject,of,0.0,experiments/620312
+preposition-object,of,0.0,experiments/620312
+preposition-verb,of,0.0,experiments/620312
+preposition-subject,on,0.0,experiments/797135
+preposition-object,on,0.0,experiments/797135
+preposition-verb,on,0.0,experiments/797135
+preposition-subject,on,0.0,experiments/498313
+preposition-object,on,0.0,experiments/498313
+preposition-verb,on,0.0,experiments/498313
+preposition-subject,of,0.0,experiments/659583
+preposition-object,of,0.0,experiments/659583
+preposition-subject,along,0.0,experiments/492074
+preposition-object,along,0.0,experiments/492074
+preposition-verb,along,0.0,experiments/492074
+preposition-subject,outside,0.03188405930995941,experiments/290348
+preposition-verb,outside,0.0,experiments/290348
+preposition-subject,out of,0.0,experiments/739339
+preposition-object,out of,0.0,experiments/739339
+preposition-verb,out of,0.0,experiments/739339
+preposition-subject,with,0.10367453843355179,experiments/511408
+preposition-object,with,0.0,experiments/511408
+preposition-subject,on,0.0,experiments/610344
+preposition-object,on,0.0,experiments/610344
+preposition-verb,on,0.0,experiments/610344
+preposition-subject,with,0.0,experiments/305425
+preposition-object,with,0.0,experiments/305425
+preposition-verb,with,0.0,experiments/305425
+preposition-subject,of,0.0,experiments/686694
+preposition-object,of,0.0,experiments/686694
+preposition-verb,of,0.0,experiments/686694
+preposition-subject,in,0.10292311757802963,experiments/395335
+preposition-object,in,0.1170981302857399,experiments/395335
+preposition-subject,on,0.0,experiments/719257
+preposition-object,on,0.0,experiments/719257
+preposition-verb,on,0.0,experiments/719257
+preposition-subject,of,0.0,experiments/419421
+preposition-object,of,0.0,experiments/419421
+preposition-verb,of,0.0,experiments/419421
+preposition-subject,down,0.0,experiments/378089
+preposition-object,down,0.0,experiments/378089
+preposition-verb,down,0.0,experiments/378089
+preposition-subject,in front of,0.0,experiments/8549
+preposition-object,in front of,0.0,experiments/8549
+preposition-verb,in front of,0.0,experiments/8549
+preposition-subject,in front of,0.0,experiments/38
+preposition-object,in front of,0.0,experiments/38
+preposition-verb,in front of,0.0,experiments/38
+preposition-subject,in,0.0,experiments/13237
+preposition-object,in,0.0,experiments/13237
+preposition-verb,in,0.0,experiments/13237
+preposition-subject,under,0.0,experiments/176678
+preposition-object,under,0.018206339329481125,experiments/176678
+preposition-verb,under,0.08240459114313126,experiments/176678
+preposition-subject,at,0.0,experiments/626099
+preposition-object,at,0.0,experiments/626099
+preposition-verb,at,0.0,experiments/626099
+preposition-subject,down,0.010709838010370731,experiments/352188
+preposition-object,down,0.01249636709690094,experiments/352188
+preposition-verb,down,0.0,experiments/352188
+preposition-subject,of,0.0,experiments/332399
+preposition-object,of,0.0,experiments/332399
+preposition-verb,of,0.0,experiments/332399
+preposition-subject,down,0.19391635060310364,experiments/440173
+preposition-object,down,0.0,experiments/440173
+preposition-verb,down,0.0,experiments/440173
+preposition-subject,in,0.19034387171268463,experiments/414476
+preposition-object,in,0.0,experiments/414476
+preposition-verb,in,0.6896551847457886,experiments/414476
+preposition-subject,on,0.15894640982151031,experiments/145510
+preposition-object,on,0.128173828125,experiments/145510
+preposition-verb,on,0.0,experiments/145510
+preposition-subject,on,0.2780083119869232,experiments/394870
+preposition-object,on,0.0,experiments/394870
+preposition-subject,in front of,0.0,experiments/255823
+preposition-object,in front of,0.0,experiments/255823
+preposition-subject,at,0.10512273013591766,experiments/692651
+preposition-object,at,0.002016128972172737,experiments/692651
+preposition-subject,of,0.0002488800382707268,experiments/407554
+preposition-object,of,0.0,experiments/407554
+preposition-verb,of,0.0,experiments/407554
+preposition-subject,with,0.44202470779418945,experiments/304719
+preposition-verb,with,0.0,experiments/304719
+preposition-subject,from,0.09921116381883621,experiments/803162
+preposition-object,from,0.048828125,experiments/803162
+preposition-verb,from,0.15315315127372742,experiments/803162
+preposition-subject,at,0.0,experiments/407968
+preposition-object,at,0.0,experiments/407968
+preposition-verb,at,0.0,experiments/407968
+preposition-subject,on top of,0.0,experiments/715892
+preposition-object,on top of,0.0,experiments/715892
+preposition-verb,on top of,0.0,experiments/715892
+preposition-subject,of,0.0,experiments/611423
+preposition-object,of,0.5805970430374146,experiments/611423
+preposition-subject,by,0.00024746349663473666,experiments/211164
+preposition-object,by,0.0,experiments/211164
+preposition-verb,by,0.0,experiments/211164
+preposition-subject,in,0.07507507503032684,experiments/778557
+preposition-object,in,0.0,experiments/778557
+preposition-verb,in,0.0,experiments/778557
+preposition-subject,in,0.0,experiments/37280
+preposition-object,in,0.0,experiments/37280
+preposition-verb,in,0.0,experiments/37280
+preposition-subject,behind,0.553398072719574,experiments/242575
+preposition-object,behind,0.0,experiments/242575
+preposition-verb,behind,0.0033783784601837397,experiments/242575
+preposition-subject,from,0.19485658407211304,experiments/523940
+preposition-object,from,0.2337302714586258,experiments/523940
+preposition-verb,from,0.12474226951599121,experiments/523940
+preposition-subject,near,0.03893805295228958,experiments/155431
+preposition-object,near,0.0,experiments/155431
+preposition-verb,near,0.0,experiments/155431
+preposition-subject,on top of,0.0,experiments/768418
+preposition-object,on top of,0.0,experiments/768418
+preposition-verb,on top of,0.0,experiments/768418
+preposition-subject,outside of,0.0,experiments/542240
+preposition-object,outside of,0.0,experiments/542240
+preposition-verb,outside of,0.0,experiments/542240
+preposition-subject,next to,0.12686927616596222,experiments/349421
+preposition-object,next to,0.0007621950935572386,experiments/349421
+preposition-subject,with,0.6252605319023132,experiments/714871
+preposition-object,with,0.0,experiments/714871
+preposition-subject,next to,0.0,experiments/503042
+preposition-object,next to,0.0,experiments/503042
+preposition-subject,on,0.03726082667708397,experiments/801288
+preposition-object,on,0.09343065321445465,experiments/801288
+preposition-verb,on,0.00390625,experiments/801288
+preposition-subject,on,0.0,experiments/543524
+preposition-object,on,0.0,experiments/543524
+preposition-verb,on,0.0,experiments/543524
+preposition-subject,with,0.01996314525604248,experiments/827279
+preposition-object,with,0.0,experiments/827279
+preposition-verb,with,0.0,experiments/827279
+preposition-subject,in,0.2741011083126068,experiments/227854
+preposition-object,in,0.07951247692108154,experiments/227854
+preposition-verb,in,0.0,experiments/227854
+preposition-subject,in,0.01659291982650757,experiments/223038
+preposition-object,in,0.07526881992816925,experiments/223038
+preposition-verb,in,0.30000001192092896,experiments/223038
+preposition-subject,in,0.12013319879770279,experiments/598468
+preposition-object,in,0.27069875597953796,experiments/598468
+preposition-verb,in,0.0,experiments/598468
+preposition-subject,of,0.03454231470823288,experiments/39766
+preposition-object,of,0.014662756584584713,experiments/39766
+preposition-subject,in,0.0,experiments/60175
+preposition-object,in,0.0,experiments/60175
+preposition-verb,in,0.0,experiments/60175
+preposition-subject,in,0.0,experiments/136225
+preposition-object,in,0.0,experiments/136225
+preposition-verb,in,0.0,experiments/136225
+preposition-subject,of,0.0,experiments/323730
+preposition-object,of,0.0,experiments/323730
+preposition-verb,of,0.0,experiments/323730
+preposition-subject,for,0.021897809579968452,experiments/577931
+preposition-object,for,0.002197265625,experiments/577931
+preposition-subject,in,0.0,experiments/20004
+preposition-object,in,0.0,experiments/20004
+preposition-verb,in,0.0,experiments/20004
+preposition-subject,in,0.0,experiments/528643
+preposition-object,in,0.0,experiments/528643
+preposition-verb,in,0.0,experiments/528643
+preposition-subject,on,0.0005138746346347034,experiments/725201
+preposition-object,on,0.0,experiments/725201
+preposition-verb,on,0.001367989112623036,experiments/725201
+preposition-subject,next to,0.0,experiments/227630
+preposition-object,next to,0.0,experiments/227630
+preposition-verb,next to,0.0,experiments/227630
+preposition-subject,in,0.0,experiments/735358
+preposition-object,in,0.0,experiments/735358
+preposition-verb,in,0.0,experiments/735358
+preposition-subject,with,0.0,experiments/429802
+preposition-object,with,0.0,experiments/429802
+preposition-verb,with,0.0,experiments/429802
+preposition-subject,to,0.0,experiments/173930
+preposition-object,to,0.0,experiments/173930
+preposition-verb,to,0.0,experiments/173930
+preposition-subject,on,0.0,experiments/818010
+preposition-object,on,0.0,experiments/818010
+preposition-verb,on,0.0,experiments/818010
+preposition-subject,on,0.012345679104328156,experiments/450172
+preposition-object,on,0.0003432887024246156,experiments/450172
+preposition-subject,in front of,0.0,experiments/573455
+preposition-object,in front of,0.0,experiments/573455
+preposition-verb,in front of,0.0,experiments/573455
+preposition-subject,on,0.02573266625404358,experiments/667345
+preposition-object,on,0.028697572648525238,experiments/667345
+preposition-verb,on,0.0,experiments/667345
+preposition-subject,with,0.5443175435066223,experiments/531182
+preposition-object,with,0.06126482039690018,experiments/531182
+preposition-verb,with,0.0,experiments/531182
+preposition-subject,with,0.01416015625,experiments/722949
+preposition-object,with,0.1538461595773697,experiments/722949
+preposition-subject,on top of,0.0,experiments/453825
+preposition-object,on top of,0.0,experiments/453825
+preposition-verb,on top of,0.0,experiments/453825
+preposition-subject,behind,0.6863741278648376,experiments/699847
+preposition-verb,behind,0.030955584719777107,experiments/699847
+preposition-subject,with,0.012044161558151245,experiments/169084
+preposition-object,with,0.0,experiments/169084
+preposition-verb,with,0.026490066200494766,experiments/169084
+preposition-subject,at,0.0,experiments/188562
+preposition-object,at,0.0,experiments/188562
+preposition-verb,at,0.0,experiments/188562
+preposition-subject,next to,0.0,experiments/247965
+preposition-object,next to,0.0,experiments/247965
+preposition-verb,next to,0.0,experiments/247965
+preposition-subject,with,0.3916991055011749,experiments/633589
+preposition-object,with,0.4170812666416168,experiments/633589
+preposition-subject,with,0.0,experiments/131154
+preposition-object,with,0.0,experiments/131154
+preposition-subject,down,0.1318359375,experiments/130600
+preposition-object,down,0.14074073731899261,experiments/130600
+preposition-verb,down,0.7964912056922913,experiments/130600
+preposition-subject,on,0.0,experiments/798155
+preposition-object,on,0.0,experiments/798155
+preposition-verb,on,0.0,experiments/798155
+preposition-subject,next to,0.0,experiments/570051
+preposition-object,next to,0.0,experiments/570051
+preposition-verb,next to,0.0,experiments/570051
+preposition-subject,on,0.0,experiments/350417
+preposition-object,on,0.0,experiments/350417
+preposition-verb,on,0.0,experiments/350417
+preposition-subject,with,0.006734006572514772,experiments/709415
+preposition-object,with,0.0005367686389945447,experiments/709415
+preposition-subject,of,0.0,experiments/729764
+preposition-object,of,0.0,experiments/729764
+preposition-verb,of,0.0,experiments/729764
+preposition-subject,beyond,0.0,experiments/224926
+preposition-object,beyond,0.0,experiments/224926
+preposition-verb,beyond,0.0,experiments/224926
+preposition-subject,of,0.06434108316898346,experiments/557845
+preposition-object,of,0.0,experiments/557845
+preposition-verb,of,0.0,experiments/557845
+preposition-subject,at,0.0,experiments/426665
+preposition-object,at,0.0,experiments/426665
+preposition-verb,at,0.0,experiments/426665
+preposition-subject,under,0.0,experiments/206262
+preposition-object,under,0.0,experiments/206262
+preposition-verb,under,0.0,experiments/206262
+preposition-subject,in,0.0,experiments/132897
+preposition-object,in,0.0,experiments/132897
+preposition-subject,with,0.0,experiments/148629
+preposition-object,with,0.0,experiments/148629
+preposition-verb,with,0.0,experiments/148629
+preposition-subject,in,0.0,experiments/715682
+preposition-object,in,0.0038038883358240128,experiments/715682
+preposition-verb,in,0.0,experiments/715682
+preposition-subject,on,0.0,experiments/791053
+preposition-object,on,0.0,experiments/791053
+preposition-verb,on,0.0,experiments/791053
+preposition-subject,on,0.0,experiments/398299
+preposition-object,on,0.0,experiments/398299
+preposition-verb,on,0.28700190782546997,experiments/398299
+preposition-subject,with,0.28289473056793213,experiments/500286
+preposition-object,with,0.07704402506351471,experiments/500286
+preposition-subject,with,0.3135313391685486,experiments/494244
+preposition-object,with,0.0,experiments/494244
+preposition-verb,with,0.0,experiments/494244
+preposition-subject,on,0.39759036898612976,experiments/616431
+preposition-object,on,0.0843067541718483,experiments/616431
+preposition-verb,on,0.2775919735431671,experiments/616431
+preposition-subject,outside,0.28952381014823914,experiments/665224
+preposition-verb,outside,0.0,experiments/665224
+preposition-subject,of,0.0,experiments/513486
+preposition-object,of,0.0,experiments/513486
+preposition-subject,with,0.4297872483730316,experiments/294385
+preposition-object,with,0.13109755516052246,experiments/294385
+preposition-verb,with,0.0,experiments/294385
+preposition-subject,on,0.0,experiments/249901
+preposition-object,on,0.0,experiments/249901
+preposition-verb,on,0.0,experiments/249901
+preposition-subject,for,0.08984375,experiments/98634
+preposition-object,for,0.0,experiments/98634
+preposition-verb,for,0.24592487514019012,experiments/98634
+preposition-subject,while,0.0,experiments/767190
+preposition-verb,while,0.0,experiments/767190
+preposition-subject,up of,0.0,experiments/193068
+preposition-object,up of,0.0,experiments/193068
+preposition-verb,up of,0.0,experiments/193068
+preposition-subject,up to,0.0074270558543503284,experiments/723727
+preposition-object,up to,0.0,experiments/723727
+preposition-verb,up to,0.0,experiments/723727
+preposition-subject,on,0.0,experiments/563439
+preposition-object,on,0.0,experiments/563439
+preposition-verb,on,0.0,experiments/563439
+preposition-subject,at,0.0,experiments/190401
+preposition-object,at,0.0,experiments/190401
+preposition-verb,at,0.0,experiments/190401
+preposition-subject,down,0.48539113998413086,experiments/259502
+preposition-object,down,0.23850084841251373,experiments/259502
+preposition-verb,down,0.0,experiments/259502
+preposition-subject,in,0.02799108251929283,experiments/485029
+preposition-object,in,0.05272981896996498,experiments/485029
+preposition-verb,in,0.45673078298568726,experiments/485029
+preposition-subject,over,0.11139240860939026,experiments/660255
+preposition-object,over,0.0,experiments/660255
+preposition-verb,over,0.7061728239059448,experiments/660255
+preposition-subject,of,0.0,experiments/340269
+preposition-object,of,0.0,experiments/340269
+preposition-subject,in,0.0,experiments/326498
+preposition-object,in,0.0,experiments/326498
+preposition-subject,of,0.0,experiments/639155
+preposition-object,of,0.0,experiments/639155
+preposition-verb,of,0.0,experiments/639155
+preposition-subject,on,0.0,experiments/38778
+preposition-object,on,0.0,experiments/38778
+preposition-verb,on,0.0,experiments/38778
+preposition-subject,on,0.0,experiments/425856
+preposition-object,on,0.0,experiments/425856
+preposition-verb,on,0.0,experiments/425856
+preposition-subject,on,0.0,experiments/652126
+preposition-object,on,0.0,experiments/652126
+preposition-verb,on,0.0,experiments/652126
+preposition-subject,of,0.0,experiments/547055
+preposition-object,of,0.0,experiments/547055
+preposition-verb,of,0.0,experiments/547055
+preposition-subject,in,0.0012215978931635618,experiments/234715
+preposition-object,in,0.003927729558199644,experiments/234715
+preposition-verb,in,0.3333333432674408,experiments/234715
+preposition-subject,near,0.0,experiments/156949
+preposition-object,near,0.0,experiments/156949
+preposition-verb,near,0.0,experiments/156949
+preposition-subject,in,0.001953125,experiments/611936
+preposition-object,in,0.0,experiments/611936
+preposition-verb,in,0.0,experiments/611936
+preposition-subject,next to,0.0,experiments/392934
+preposition-object,next to,0.0,experiments/392934
+preposition-verb,next to,0.0,experiments/392934
+preposition-subject,with,0.6439393758773804,experiments/407939
+preposition-object,with,0.21824103593826294,experiments/407939
+preposition-verb,with,0.7319587469100952,experiments/407939
+preposition-subject,on,0.040062032639980316,experiments/417710
+preposition-object,on,0.009406953118741512,experiments/417710
+preposition-verb,on,0.0,experiments/417710
+preposition-subject,down,0.051121074706315994,experiments/688278
+preposition-object,down,0.0,experiments/688278
+preposition-verb,down,0.5350877046585083,experiments/688278
+preposition-subject,of,0.0,experiments/734398
+preposition-object,of,0.0,experiments/734398
+preposition-verb,of,0.0,experiments/734398
+preposition-subject,in,0.010816126130521297,experiments/478392
+preposition-object,in,0.0,experiments/478392
+preposition-verb,in,0.0,experiments/478392
+preposition-subject,in,0.30429863929748535,experiments/243158
+preposition-object,in,0.06888265907764435,experiments/243158
+preposition-verb,in,0.0856911912560463,experiments/243158
+preposition-subject,next to,0.0,experiments/747548
+preposition-object,next to,0.0,experiments/747548
+preposition-verb,next to,0.0,experiments/747548
+preposition-subject,inside of,0.0,experiments/161493
+preposition-object,inside of,0.0,experiments/161493
+preposition-verb,inside of,0.0,experiments/161493
+preposition-subject,up to,0.006550218444317579,experiments/524956
+preposition-object,up to,0.0012610340490937233,experiments/524956
+preposition-verb,up to,0.0032051282469183207,experiments/524956
+preposition-subject,at,0.0,experiments/359268
+preposition-object,at,0.0,experiments/359268
+preposition-verb,at,0.0,experiments/359268
+preposition-subject,for,0.0,experiments/38420
+preposition-object,for,0.0,experiments/38420
+preposition-verb,for,0.0,experiments/38420
+preposition-subject,in,0.0,experiments/702110
+preposition-object,in,0.0,experiments/702110
+preposition-verb,in,0.0,experiments/702110
+preposition-subject,in,0.0,experiments/189316
+preposition-object,in,0.0,experiments/189316
+preposition-subject,among,0.511273205280304,experiments/60836
+preposition-object,among,0.0,experiments/60836
+preposition-verb,among,0.0,experiments/60836
+preposition-subject,with,0.3205307126045227,experiments/93954
+preposition-object,with,0.016074450686573982,experiments/93954
+preposition-subject,in,0.0,experiments/234641
+preposition-object,in,0.0,experiments/234641
+preposition-verb,in,0.0,experiments/234641
+preposition-subject,from,0.3769429922103882,experiments/228566
+preposition-object,from,0.02601156011223793,experiments/228566
+preposition-verb,from,0.0,experiments/228566
+preposition-subject,in,0.13314244151115417,experiments/183788
+preposition-object,in,0.0629047155380249,experiments/183788
+preposition-verb,in,0.01342281885445118,experiments/183788
+preposition-subject,at,0.7693920135498047,experiments/401427
+preposition-object,at,0.1715274304151535,experiments/401427
+preposition-verb,at,0.3210412263870239,experiments/401427
+preposition-subject,on,0.0,experiments/471463
+preposition-object,on,0.0,experiments/471463
+preposition-verb,on,0.0,experiments/471463
+preposition-subject,with,0.009413468651473522,experiments/567762
+preposition-object,with,0.0,experiments/567762
+preposition-verb,with,0.012539184652268887,experiments/567762
+preposition-subject,on,0.0,experiments/535457
+preposition-object,on,0.0,experiments/535457
+preposition-verb,on,0.0,experiments/535457
+preposition-subject,by,0.15322580933570862,experiments/824085
+preposition-verb,by,0.2183908075094223,experiments/824085
+preposition-subject,with,0.016316285356879234,experiments/720600
+preposition-object,with,0.0,experiments/720600
+preposition-subject,from,0.0006925207562744617,experiments/50852
+preposition-object,from,0.0,experiments/50852
+preposition-verb,from,0.005347593687474728,experiments/50852
+preposition-subject,on,0.0,experiments/747311
+preposition-object,on,0.0,experiments/747311
+preposition-verb,on,0.0,experiments/747311
+preposition-subject,on,0.0,experiments/324242
+preposition-object,on,0.0,experiments/324242
+preposition-verb,on,0.0,experiments/324242
+preposition-subject,with,0.0746522843837738,experiments/814499
+preposition-object,with,0.011363636702299118,experiments/814499
+preposition-subject,wearing,0.036036036908626556,experiments/188588
+preposition-object,wearing,0.5793103575706482,experiments/188588
+preposition-subject,next to,0.0,experiments/770011
+preposition-object,next to,0.0,experiments/770011
+preposition-subject,on,0.0,experiments/115364
+preposition-object,on,0.0,experiments/115364
+preposition-verb,on,0.0,experiments/115364
+preposition-subject,in,0.0,experiments/478001
+preposition-object,in,0.03168255835771561,experiments/478001
+preposition-verb,in,0.33888888359069824,experiments/478001
+preposition-subject,at,0.17554523050785065,experiments/251576
+preposition-object,at,0.3638151288032532,experiments/251576
+preposition-verb,at,0.5893958210945129,experiments/251576
+preposition-subject,in,0.0,experiments/261966
+preposition-object,in,0.0,experiments/261966
+preposition-verb,in,0.0,experiments/261966
+preposition-subject,on,0.0,experiments/95123
+preposition-object,on,0.0,experiments/95123
+preposition-verb,on,0.0,experiments/95123
+preposition-subject,in,0.020792080089449883,experiments/242598
+preposition-object,in,0.008547008968889713,experiments/242598
+preposition-verb,in,0.0,experiments/242598
+preposition-subject,with,0.9007678627967834,experiments/409612
+preposition-object,with,0.0,experiments/409612
+preposition-verb,with,0.0,experiments/409612
+preposition-subject,next to,0.0,experiments/789491
+preposition-object,next to,0.0,experiments/789491
+preposition-subject,behind,0.0,experiments/563453
+preposition-object,behind,0.0,experiments/563453
+preposition-verb,behind,0.0,experiments/563453
+preposition-subject,of,0.0,experiments/215555
+preposition-object,of,0.0,experiments/215555
+preposition-subject,on,0.05475285276770592,experiments/602679
+preposition-object,on,0.0,experiments/602679
+preposition-verb,on,0.0213396567851305,experiments/602679
+preposition-subject,on,0.003223726525902748,experiments/579003
+preposition-object,on,0.0,experiments/579003
+preposition-verb,on,0.0,experiments/579003
+preposition-subject,through,0.0,experiments/267014
+preposition-object,through,0.0,experiments/267014
+preposition-verb,through,0.0,experiments/267014
+preposition-subject,in,0.0,experiments/552311
+preposition-object,in,0.0,experiments/552311
+preposition-verb,in,0.0,experiments/552311
+preposition-subject,with,0.15432098507881165,experiments/212178
+preposition-object,with,0.00902096088975668,experiments/212178
+preposition-verb,with,0.0,experiments/212178
+preposition-subject,in,0.4576842188835144,experiments/32880
+preposition-object,in,0.0,experiments/32880
+preposition-verb,in,0.008219177834689617,experiments/32880
+preposition-subject,in to,0.0,experiments/339568
+preposition-object,in to,0.0,experiments/339568
+preposition-verb,in to,0.0,experiments/339568
+preposition-subject,next to,0.04841356724500656,experiments/250476
+preposition-object,next to,0.0,experiments/250476
+preposition-subject,with,0.5428856611251831,experiments/342799
+preposition-object,with,0.5248686075210571,experiments/342799
+preposition-verb,with,0.0,experiments/342799
+preposition-subject,in,0.0,experiments/206712
+preposition-object,in,0.0,experiments/206712
+preposition-subject,up of,0.0,experiments/245799
+preposition-object,up of,0.0,experiments/245799
+preposition-subject,of,0.0,experiments/591640
+preposition-object,of,0.0,experiments/591640
+preposition-verb,of,0.0,experiments/591640
+preposition-subject,out,0.1860465109348297,experiments/494322
+preposition-object,out,0.015591965988278389,experiments/494322
+preposition-verb,out,0.0,experiments/494322
+preposition-subject,down,0.003816793905571103,experiments/222702
+preposition-object,down,0.0,experiments/222702
+preposition-verb,down,0.014814814552664757,experiments/222702
+preposition-subject,of,0.0,experiments/287516
+preposition-object,of,0.0,experiments/287516
+preposition-verb,of,0.0,experiments/287516
+preposition-subject,with,0.07945134490728378,experiments/429293
+preposition-object,with,0.32375776767730713,experiments/429293
+preposition-verb,with,0.0,experiments/429293
+preposition-subject,next to,0.0,experiments/678661
+preposition-object,next to,0.0,experiments/678661
+preposition-verb,next to,0.0,experiments/678661
+preposition-subject,on,0.00341796875,experiments/339136
+preposition-object,on,0.0023712737020105124,experiments/339136
+preposition-verb,on,0.0,experiments/339136
+preposition-subject,in,0.0,experiments/798679
+preposition-object,in,0.0,experiments/798679
+preposition-verb,in,0.0,experiments/798679
+preposition-subject,with,0.591552734375,experiments/279207
+preposition-object,with,0.14636830985546112,experiments/279207
+preposition-verb,with,0.0,experiments/279207
+preposition-subject,over,0.34337350726127625,experiments/509591
+preposition-object,over,0.0,experiments/509591
+preposition-verb,over,0.0,experiments/509591
+preposition-subject,in,0.02229033224284649,experiments/293642
+preposition-object,in,0.0,experiments/293642
+preposition-verb,in,0.0,experiments/293642
+preposition-subject,in front of,0.0,experiments/23904
+preposition-object,in front of,0.0,experiments/23904
+preposition-subject,with,0.0,experiments/38283
+preposition-object,with,0.0,experiments/38283
+preposition-subject,into,0.029304029420018196,experiments/639852
+preposition-object,into,0.04171011596918106,experiments/639852
+preposition-verb,into,0.0,experiments/639852
+preposition-subject,down,0.2687161862850189,experiments/194112
+preposition-object,down,0.0,experiments/194112
+preposition-verb,down,0.8137614727020264,experiments/194112
+preposition-subject,down,0.017186349257826805,experiments/314069
+preposition-object,down,0.006459948141127825,experiments/314069
+preposition-verb,down,0.0,experiments/314069
+preposition-subject,on,0.7764265537261963,experiments/231620
+preposition-object,on,0.0,experiments/231620
+preposition-verb,on,0.11384976655244827,experiments/231620
+preposition-subject,beside,0.046606194227933884,experiments/420180
+preposition-object,beside,0.3272727131843567,experiments/420180
+preposition-verb,beside,0.0,experiments/420180
+preposition-subject,on,0.0,experiments/33583
+preposition-object,on,0.0,experiments/33583
+preposition-verb,on,0.0,experiments/33583
+preposition-subject,on,0.2048710584640503,experiments/87908
+preposition-object,on,0.0,experiments/87908
+preposition-verb,on,0.0,experiments/87908
+preposition-subject,in,0.0,experiments/227538
+preposition-object,in,0.0,experiments/227538
+preposition-verb,in,0.0,experiments/227538
+preposition-subject,in,0.0,experiments/568856
+preposition-object,in,0.0,experiments/568856
+preposition-verb,in,0.0,experiments/568856
+preposition-subject,in,0.6796875,experiments/649953
+preposition-object,in,0.5538461804389954,experiments/649953
+preposition-verb,in,0.0039511495269834995,experiments/649953
+preposition-subject,of,0.0,experiments/312278
+preposition-object,of,0.0,experiments/312278
+preposition-verb,of,0.0,experiments/312278
+preposition-subject,with,0.6394716501235962,experiments/750576
+preposition-object,with,0.013344116508960724,experiments/750576
+preposition-subject,as,0.00244140625,experiments/391852
+preposition-verb,as,0.021321961656212807,experiments/391852
+preposition-subject,on,0.0,experiments/397842
+preposition-object,on,0.0,experiments/397842
+preposition-verb,on,0.0,experiments/397842
+preposition-subject,with,0.02261221781373024,experiments/246250
+preposition-object,with,0.029982363805174828,experiments/246250
+preposition-verb,with,0.0,experiments/246250
+preposition-subject,in,0.0,experiments/23541
+preposition-object,in,0.0,experiments/23541
+preposition-verb,in,0.0,experiments/23541
+preposition-subject,with,0.20143884420394897,experiments/550039
+preposition-object,with,0.05000000074505806,experiments/550039
+preposition-verb,with,0.0,experiments/550039
+preposition-subject,at,0.2770979106426239,experiments/552994
+preposition-object,at,0.2277403324842453,experiments/552994
+preposition-verb,at,0.3105190694332123,experiments/552994
+preposition-subject,on,0.0009765625,experiments/810053
+preposition-object,on,0.0009772783378139138,experiments/810053
+preposition-verb,on,0.0,experiments/810053
+preposition-subject,down,0.0,experiments/272448
+preposition-object,down,0.026061058044433594,experiments/272448
+preposition-verb,down,0.06982421875,experiments/272448
+preposition-subject,on,0.13883677124977112,experiments/501698
+preposition-object,on,0.0,experiments/501698
+preposition-subject,towards,0.0824742242693901,experiments/323140
+preposition-object,towards,0.004162331111729145,experiments/323140
+preposition-verb,towards,0.4484536051750183,experiments/323140
+preposition-subject,inside of,0.0,experiments/636156
+preposition-object,inside of,0.0,experiments/636156
+preposition-verb,inside of,0.0,experiments/636156
+preposition-subject,next to,0.0,experiments/263254
+preposition-object,next to,0.0,experiments/263254
+preposition-verb,next to,0.0,experiments/263254
+preposition-subject,at,0.0,experiments/436501
+preposition-object,at,0.0,experiments/436501
+preposition-verb,at,0.0,experiments/436501
+preposition-subject,in,0.0,experiments/525539
+preposition-object,in,0.0,experiments/525539
+preposition-verb,in,0.0,experiments/525539
+preposition-subject,on,0.022200457751750946,experiments/738417
+preposition-object,on,0.0,experiments/738417
+preposition-verb,on,0.21590909361839294,experiments/738417
+preposition-subject,over,0.5738636255264282,experiments/411511
+preposition-object,over,0.607300877571106,experiments/411511
+preposition-verb,over,0.02880288101732731,experiments/411511
+preposition-subject,by,0.03846153989434242,experiments/167746
+preposition-object,by,0.6236934065818787,experiments/167746
+preposition-verb,by,0.4502262473106384,experiments/167746
+preposition-subject,with,0.0,experiments/272660
+preposition-object,with,0.0,experiments/272660
+preposition-subject,on top of,0.0,experiments/516656
+preposition-object,on top of,0.0,experiments/516656
+preposition-verb,on top of,0.0,experiments/516656
+preposition-subject,on,0.0,experiments/658601
+preposition-object,on,0.0,experiments/658601
+preposition-verb,on,0.0,experiments/658601
+preposition-subject,of,0.0,experiments/769749
+preposition-object,of,0.0,experiments/769749
+preposition-subject,in,0.22973644733428955,experiments/233105
+preposition-object,in,0.0,experiments/233105
+preposition-subject,near,0.0,experiments/297873
+preposition-object,near,0.0,experiments/297873
+preposition-verb,near,0.0,experiments/297873
+preposition-subject,next to,0.0,experiments/801527
+preposition-object,next to,0.0,experiments/801527
+preposition-verb,next to,0.0,experiments/801527
+preposition-subject,on,0.0,experiments/374829
+preposition-object,on,0.0,experiments/374829
+preposition-verb,on,0.0,experiments/374829
+preposition-subject,on,0.05107370764017105,experiments/405704
+preposition-object,on,0.0,experiments/405704
+preposition-verb,on,0.0,experiments/405704
+preposition-subject,with,0.14814814925193787,experiments/564737
+preposition-object,with,0.04474708065390587,experiments/564737
+preposition-subject,with,0.90771484375,experiments/159840
+preposition-object,with,0.0016137708444148302,experiments/159840
+preposition-verb,with,0.0,experiments/159840
+preposition-subject,on,0.0,experiments/765614
+preposition-object,on,0.0,experiments/765614
+preposition-verb,on,0.0,experiments/765614
+preposition-subject,next to,0.010638297535479069,experiments/490106
+preposition-object,next to,0.009719222784042358,experiments/490106
+preposition-verb,next to,0.4444444477558136,experiments/490106
+preposition-subject,with,0.3320264518260956,experiments/676750
+preposition-object,with,0.22904367744922638,experiments/676750
+preposition-verb,with,0.0007326007471419871,experiments/676750
+preposition-subject,across,0.3647541105747223,experiments/785752
+preposition-object,across,0.0,experiments/785752
+preposition-verb,across,0.043453238904476166,experiments/785752
+preposition-subject,in,0.0,experiments/46459
+preposition-object,in,0.0,experiments/46459
+preposition-verb,in,0.0,experiments/46459
+preposition-subject,in,0.044052861630916595,experiments/430504
+preposition-object,in,0.009765625,experiments/430504
+preposition-verb,in,0.04246284440159798,experiments/430504
+preposition-subject,on,0.005665024742484093,experiments/802973
+preposition-object,on,0.0,experiments/802973
+preposition-verb,on,0.0081415930762887,experiments/802973
+preposition-subject,with,0.6762152910232544,experiments/206637
+preposition-object,with,0.3617822527885437,experiments/206637
+preposition-subject,of,0.0,experiments/328872
+preposition-object,of,0.0,experiments/328872
+preposition-verb,of,0.0,experiments/328872
+preposition-subject,over,0.8061360716819763,experiments/411352
+preposition-object,over,0.2661249339580536,experiments/411352
+preposition-verb,over,0.6843283772468567,experiments/411352
+preposition-subject,of,0.21165049076080322,experiments/94105
+preposition-object,of,0.072727270424366,experiments/94105
+preposition-verb,of,0.007246376946568489,experiments/94105
+preposition-subject,of,0.0,experiments/29607
+preposition-object,of,0.2959558963775635,experiments/29607
+preposition-subject,of,0.0,experiments/117355
+preposition-object,of,0.0,experiments/117355
+preposition-verb,of,0.0,experiments/117355
+preposition-subject,in front of,0.0,experiments/211288
+preposition-object,in front of,0.0,experiments/211288
+preposition-subject,of,0.0,experiments/605802
+preposition-object,of,0.0,experiments/605802
+preposition-subject,in front of,0.0,experiments/170164
+preposition-object,in front of,0.0,experiments/170164
+preposition-verb,in front of,0.0,experiments/170164
+preposition-subject,in,0.0,experiments/138575
+preposition-object,in,0.0,experiments/138575
+preposition-verb,in,0.0,experiments/138575
+preposition-subject,on,0.0,experiments/564699
+preposition-object,on,0.0,experiments/564699
+preposition-subject,on,0.05472636967897415,experiments/628203
+preposition-object,on,0.0,experiments/628203
+preposition-verb,on,0.0416666679084301,experiments/628203
+preposition-subject,in,0.9002881646156311,experiments/360287
+preposition-object,in,0.0,experiments/360287
+preposition-verb,in,0.0,experiments/360287
+preposition-subject,over,0.012072434648871422,experiments/35576
+preposition-object,over,0.0,experiments/35576
+preposition-verb,over,0.05570291727781296,experiments/35576
+preposition-subject,of,0.0,experiments/219684
+preposition-object,of,0.0,experiments/219684
+preposition-subject,with,0.10227761417627335,experiments/61129
+preposition-object,with,0.49872124195098877,experiments/61129
+preposition-subject,on top of,0.0,experiments/266609
+preposition-object,on top of,0.0,experiments/266609
+preposition-verb,on top of,0.0,experiments/266609
+preposition-subject,with,0.0,experiments/322778
+preposition-object,with,0.0,experiments/322778
+preposition-verb,with,0.0,experiments/322778
+preposition-subject,on,0.004551365505903959,experiments/820217
+preposition-object,on,0.0,experiments/820217
+preposition-verb,on,0.0,experiments/820217
+preposition-subject,on,0.0,experiments/140676
+preposition-object,on,0.0,experiments/140676
+preposition-verb,on,0.0,experiments/140676
+preposition-subject,of,0.0,experiments/228193
+preposition-object,of,0.0,experiments/228193
+preposition-verb,of,0.0,experiments/228193
+preposition-subject,at,0.0,experiments/488807
+preposition-object,at,0.0,experiments/488807
+preposition-verb,at,0.0,experiments/488807
+preposition-subject,in,0.0078125,experiments/118988
+preposition-object,in,0.0,experiments/118988
+preposition-subject,on,0.0,experiments/654347
+preposition-object,on,0.0,experiments/654347
+preposition-subject,next to,0.0,experiments/828277
+preposition-object,next to,0.0,experiments/828277
+preposition-subject,with,0.0,experiments/675402
+preposition-object,with,0.048886947333812714,experiments/675402
+preposition-subject,with,0.6479344964027405,experiments/651863
+preposition-object,with,0.3993193507194519,experiments/651863
+preposition-subject,in,0.903459370136261,experiments/283119
+preposition-object,in,0.0,experiments/283119
+preposition-verb,in,0.8857260942459106,experiments/283119
+preposition-subject,with,0.3603058159351349,experiments/265970
+preposition-object,with,0.09923664480447769,experiments/265970
+preposition-verb,with,0.0008833922329358757,experiments/265970
+preposition-subject,out of,0.0,experiments/195057
+preposition-object,out of,0.0,experiments/195057
+preposition-verb,out of,0.0,experiments/195057
+preposition-subject,in front of,0.0,experiments/542340
+preposition-object,in front of,0.0,experiments/542340
+preposition-subject,at,0.0,experiments/665564
+preposition-object,at,0.0,experiments/665564
+preposition-verb,at,0.0,experiments/665564
+preposition-subject,on,0.0,experiments/494423
+preposition-object,on,0.0,experiments/494423
+preposition-verb,on,0.0,experiments/494423
+preposition-subject,with,0.6020971536636353,experiments/225113
+preposition-object,with,0.0,experiments/225113
+preposition-verb,with,0.003565062303096056,experiments/225113
+preposition-subject,with,0.22154082357883453,experiments/513031
+preposition-object,with,0.082844577729702,experiments/513031
+preposition-verb,with,0.0,experiments/513031
+preposition-subject,in,0.049710024148225784,experiments/540733
+preposition-object,in,0.007050197571516037,experiments/540733
+preposition-verb,in,0.07425742596387863,experiments/540733
+preposition-subject,of,0.0,experiments/767906
+preposition-object,of,0.0,experiments/767906
+preposition-subject,with,0.0,experiments/520854
+preposition-object,with,0.3333333432674408,experiments/520854
+preposition-verb,with,0.13523809611797333,experiments/520854
+preposition-subject,in,0.0,experiments/719216
+preposition-object,in,0.0,experiments/719216
+preposition-verb,in,0.0,experiments/719216
+preposition-subject,in,0.0,experiments/496936
+preposition-object,in,0.0,experiments/496936
+preposition-verb,in,0.0,experiments/496936
+preposition-subject,behind,0.36574074625968933,experiments/752693
+preposition-object,behind,0.0560000017285347,experiments/752693
+preposition-verb,behind,0.0,experiments/752693
+preposition-subject,on,0.003063308307901025,experiments/759437
+preposition-object,on,0.0,experiments/759437
+preposition-verb,on,0.0,experiments/759437
+preposition-subject,by,0.10850366204977036,experiments/203464
+preposition-object,by,0.0,experiments/203464
+preposition-verb,by,0.0,experiments/203464
+preposition-subject,up,0.0,experiments/487760
+preposition-object,up,0.00631313119083643,experiments/487760
+preposition-verb,up,0.158620685338974,experiments/487760
+preposition-subject,on,0.0,experiments/382774
+preposition-object,on,0.0,experiments/382774
+preposition-subject,on,0.0,experiments/806273
+preposition-object,on,0.0,experiments/806273
+preposition-subject,in,0.0,experiments/720723
+preposition-object,in,0.0,experiments/720723
+preposition-verb,in,0.0,experiments/720723
+preposition-subject,over,0.0,experiments/626581
+preposition-object,over,0.0,experiments/626581
+preposition-verb,over,0.0,experiments/626581
+preposition-subject,in,0.5305715203285217,experiments/247735
+preposition-object,in,0.035779815167188644,experiments/247735
+preposition-verb,in,0.048334114253520966,experiments/247735
+preposition-subject,in,0.0,experiments/462931
+preposition-object,in,0.0,experiments/462931
+preposition-subject,on,0.0026939655654132366,experiments/587270
+preposition-object,on,0.0,experiments/587270
+preposition-subject,in,0.0542120635509491,experiments/228284
+preposition-object,in,0.06809078902006149,experiments/228284
+preposition-verb,in,0.03921568766236305,experiments/228284
+preposition-subject,with,0.0,experiments/482284
+preposition-object,with,0.0,experiments/482284
+preposition-subject,on,0.15468549728393555,experiments/650804
+preposition-object,on,0.0,experiments/650804
+preposition-verb,on,0.0,experiments/650804
+preposition-subject,for,0.007523511070758104,experiments/734640
+preposition-object,for,0.016806723549962044,experiments/734640
+preposition-verb,for,0.0,experiments/734640
+preposition-subject,by,0.0024483134038746357,experiments/806757
+preposition-object,by,0.002197265625,experiments/806757
+preposition-verb,by,0.0,experiments/806757
+preposition-subject,at,0.0,experiments/574262
+preposition-object,at,0.0,experiments/574262
+preposition-verb,at,0.0,experiments/574262
+preposition-subject,of,0.08287461847066879,experiments/133650
+preposition-object,of,0.022635407745838165,experiments/133650
+preposition-subject,of,0.0,experiments/272486
+preposition-object,of,0.0,experiments/272486
+preposition-verb,of,0.0,experiments/272486
+preposition-subject,of,0.0,experiments/453753
+preposition-object,of,0.0,experiments/453753
+preposition-verb,of,0.0,experiments/453753
+preposition-subject,over,0.0,experiments/369699
+preposition-object,over,0.0,experiments/369699
+preposition-verb,over,0.0,experiments/369699
+preposition-subject,on,0.010544815100729465,experiments/384800
+preposition-object,on,0.0,experiments/384800
+preposition-verb,on,0.0,experiments/384800
+preposition-subject,with,0.07592891901731491,experiments/313029
+preposition-object,with,0.05701509118080139,experiments/313029
+preposition-verb,with,0.0,experiments/313029
+preposition-subject,in,0.4189985394477844,experiments/821135
+preposition-object,in,0.0,experiments/821135
+preposition-verb,in,0.23353293538093567,experiments/821135
+preposition-subject,on,0.15948575735092163,experiments/36184
+preposition-object,on,0.06472919136285782,experiments/36184
+preposition-verb,on,0.0,experiments/36184
+preposition-subject,of,0.0,experiments/123415
+preposition-object,of,0.10341288149356842,experiments/123415
+preposition-verb,of,0.5140562057495117,experiments/123415
+preposition-subject,from,0.07993771135807037,experiments/591054
+preposition-object,from,0.0,experiments/591054
+preposition-verb,from,0.0,experiments/591054
+preposition-subject,next to,0.00044742730096913874,experiments/648155
+preposition-object,next to,0.0007587253348901868,experiments/648155
+preposition-verb,next to,0.0,experiments/648155
+preposition-subject,in,0.0,experiments/675990
+preposition-object,in,0.0,experiments/675990
+preposition-verb,in,0.0,experiments/675990
+preposition-subject,with,0.2471994012594223,experiments/333395
+preposition-object,with,0.12723608314990997,experiments/333395
+preposition-verb,with,0.46064141392707825,experiments/333395
+preposition-subject,of,0.0,experiments/416931
+preposition-object,of,0.0,experiments/416931
+preposition-subject,on,0.0009376464877277613,experiments/752060
+preposition-object,on,0.0,experiments/752060
+preposition-subject,in,0.008906882256269455,experiments/615698
+preposition-object,in,0.0,experiments/615698

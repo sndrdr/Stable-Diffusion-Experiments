@@ -1,0 +1,41 @@
+sentence,conjunction,first_noun,second_noun
+A little girl and her dog are playing in the park.,and,Little girl,Her dog
+An astronaut and a satellite are floating in space.,and,Astronaut,Satellite
+A ship and a lighthouse stand against the backdrop of a stormy sea.,and,Ship,Lighthouse
+A butterfly and a flower are in a vibrant meadow.,and,Butterfly,Flower
+A knight and a dragon are locked in a fierce battle.,and,Knight,Dragon
+A cowboy and his horse are riding into the sunset.,and,Cowboy,His horse
+A chef and a giant cake are in a bustling kitchen.,and,Chef,Giant cake
+A mermaid and a treasure chest are hidden in a coral reef.,and,Mermaid,Treasure chest
+An explorer and a pyramid are in the heart of the desert.,and,Explorer,Pyramid
+A painter and his canvas are in a sunlit studio.,and,Painter,His canvas
+A cat is playing with a ball of yarn as well as a small mouse.,as well as,Cat,Small mouse
+A man is reading a newspaper as well as sipping coffee.,as well as,Man,Coffee
+A child is building a sand castle as well as flying a kite at the beach.,as well as,Child,Kite
+A woman is watering her garden as well as feeding her chickens.,as well as,Woman,Chickens
+A chef is preparing pasta as well as baking a pizza in the kitchen.,as well as,Chef,Pizza
+An artist is painting a sunset as well as a portrait in his studio.,as well as,Artist,Portrait
+A boy is riding his bicycle as well as flying a paper airplane in the park.,as well as,Boy,Paper airplane
+A girl is picking flowers as well as chasing butterflies in the meadow.,as well as,Girl,Butterflies
+A dog is chasing a frisbee as well as a squirrel in the yard.,as well as,Dog,Squirrel
+A farmer is harvesting wheat as well as driving a tractor on the field.,as well as,Farmer,Tractor
+The picture shows both a roaring lion and a calm deer in the wild.,both... and...,Roaring lion,Calm deer
+The painting captures both the rush of a busy city and the serenity of a quiet park.,both... and...,Busy city,Quiet park
+The image portrays both the warmth of a crackling fireplace and the chill of the snow outside.,both... and...,Crackling fireplace,Snow outside
+The sketch highlights both the strength of a towering mountain and the fragility of a delicate flower.,both... and...,Towering mountain,Delicate flower
+The photograph captures both the vibrancy of a bustling market and the simplicity of a street food cart.,both... and...,Bustling market,Street food cart
+The drawing illustrates both the grandeur of a sprawling castle and the quaintness of a charming cottage.,both... and...,Sprawling castle,Charming cottage
+The design represents both the beauty of the rising sun and the mystery of the setting moon.,both... and...,Rising sun,Setting moon
+The photo frames both the playfulness of a puppy and the wisdom of an old dog.,both... and...,Playfulness of a puppy,Wisdom of an old dog
+The artwork shows both the serenity of a tranquil lake and the turbulence of a raging waterfall.,both... and...,Tranquil lake,Raging waterfall
+The image captures both the majesty of a soaring eagle and the grace of a gliding swan.,both... and...,Soaring eagle,Gliding swan
+"A cat is sleeping on the rug, along with a dog.",along with,Cat,Dog
+"A young girl is picking flowers in a field, along with her grandmother.",along with,Young girl,Grandmother
+"A group of penguins are standing on an iceberg, along with a single seal.",along with,Group of penguins,Seal
+"A man is fishing by the river, along with his son.",along with,Man,Son
+"An astronaut is floating in space, along with a satellite.",along with,Astronaut,Satellite
+"A chef is preparing a meal in the kitchen, along with his assistant.",along with,Chef,Assistant
+"A squirrel is gathering nuts in the forest, along with a rabbit.",along with,Squirrel,Rabbit
+"A painter is working on a canvas, along with his muse.",along with,Painter,Muse
+"A firefighter is putting out a fire, along with his team.",along with,Firefighter,Team
+"A mother bird is feeding her chicks, along with a father bird.",along with,Mother bird,Father bird

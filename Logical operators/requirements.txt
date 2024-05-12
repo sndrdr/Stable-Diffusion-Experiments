@@ -1,0 +1,13 @@
+diffusers==0.21.2
+transformers==4.30.2
+accelerate==0.23.0
+pathlib
+pandas
+numba
+nltk
+inflect
+joblib
+spacy
+gradio
+ftfy
+scikit-image

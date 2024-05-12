@@ -1,0 +1,51 @@
+id,sentence,conjunction,first_noun,second_noun,first_noun_presence,second_noun_presence,answer_check
+1,A little girl and her dog are playing in the park.,and,Little girl,Her dog,True,True,True
+2,An astronaut and a satellite are floating in space.,and,Astronaut,Satellite,True,True,True
+3,A ship and a lighthouse stand against the backdrop of a stormy sea.,and,Ship,Lighthouse,True,True,True
+4,A butterfly and a flower are in a vibrant meadow.,and,Butterfly,Flower,True,True,True
+5,A knight and a dragon are locked in a fierce battle.,and,Knight,Dragon,True,True,True
+6,A cowboy and his horse are riding into the sunset.,and,Cowboy,His horse,True,True,True
+7,A chef and a giant cake are in a bustling kitchen.,and,Chef,Giant cake,True,False,False
+8,A mermaid and a treasure chest are hidden in a coral reef.,and,Mermaid,Treasure chest,True,True,True
+9,An explorer and a pyramid are in the heart of the desert.,and,Explorer,Pyramid,True,True,True
+10,A painter and his canvas are in a sunlit studio.,and,Painter,His canvas,True,True,True
+11,A cat is playing with a ball of yarn as well as a small mouse.,as well as,Cat,Small mouse,False,False,False
+12,A man is reading a newspaper as well as sipping coffee.,as well as,Man,Coffee,True,True,True
+13,A child is building a sand castle as well as flying a kite at the beach.,as well as,Child,Kite,True,True,True
+14,A woman is watering her garden as well as feeding her chickens.,as well as,Woman,Chickens,False,True,False
+15,A chef is preparing pasta as well as baking a pizza in the kitchen.,as well as,Chef,Pizza,True,True,True
+16,An artist is painting a sunset as well as a portrait in his studio.,as well as,Artist,Portrait,False,False,False
+17,A boy is riding his bicycle as well as flying a paper airplane in the park.,as well as,Boy,Paper airplane,True,True,True
+18,A girl is picking flowers as well as chasing butterflies in the meadow.,as well as,Girl,Butterflies,True,False,False
+19,A dog is chasing a frisbee as well as a squirrel in the yard.,as well as,Dog,Squirrel,True,False,False
+20,A farmer is harvesting wheat as well as driving a tractor on the field.,as well as,Farmer,Tractor,False,True,False
+21,The picture shows both a roaring lion and a calm deer in the wild.,both... and...,Roaring lion,Calm deer,True,True,True
+22,The painting captures both the rush of a busy city and the serenity of a quiet park.,both... and...,Busy city,Quiet park,True,False,False
+23,The image portrays both the warmth of a crackling fireplace and the chill of the snow outside.,both... and...,Crackling fireplace,Snow outside,True,False,False
+24,The sketch highlights both the strength of a towering mountain and the fragility of a delicate flower.,both... and...,Towering mountain,Delicate flower,True,True,True
+25,The photograph captures both the vibrancy of a bustling market and the simplicity of a street food cart.,both... and...,Bustling market,Street food cart,True,True,True
+26,The drawing illustrates both the grandeur of a sprawling castle and the quaintness of a charming cottage.,both... and...,Sprawling castle,Charming cottage,True,True,True
+27,The design represents both the beauty of the rising sun and the mystery of the setting moon.,both... and...,Rising sun,Setting moon,True,True,True
+28,The photo frames both the playfulness of a puppy and the wisdom of an old dog.,both... and...,Playfulness of a puppy,Wisdom of an old dog,True,False,False
+29,The artwork shows both the serenity of a tranquil lake and the turbulence of a raging waterfall.,both... and...,Tranquil lake,Raging waterfall,False,True,False
+30,The image captures both the majesty of a soaring eagle and the grace of a gliding swan.,both... and...,Soaring eagle,Gliding swan,True,False,False
+31,"A cat is sleeping on the rug, along with a dog.",along with,Cat,Dog,True,True,True
+32,"A young girl is picking flowers in a field, along with her grandmother.",along with,Young girl,Grandmother,True,True,True
+33,"A group of penguins are standing on an iceberg, along with a single seal.",along with,Group of penguins,Seal,True,True,True
+34,"A man is fishing by the river, along with his son.",along with,Man,Son,True,True,True
+35,"An astronaut is floating in space, along with a satellite.",along with,Astronaut,Satellite,True,True,True
+36,"A chef is preparing a meal in the kitchen, along with his assistant.",along with,Chef,Assistant,True,True,True
+37,"A squirrel is gathering nuts in the forest, along with a rabbit.",along with,Squirrel,Rabbit,True,False,False
+38,"A painter is working on a canvas, along with his muse.",along with,Painter,Muse,True,True,True
+39,"A firefighter is putting out a fire, along with his team.",along with,Firefighter,Team,True,True,True
+40,"A mother bird is feeding her chicks, along with a father bird.",along with,Mother bird,Father bird,True,True,True
+41,A cat and a dog are playing in a meadow.,and,Cat,Dog,False,True,False
+42,A boy and a girl are building a sandcastle on the beach.,and,Boy,Girl,True,False,False
+43,A sunflower and a butterfly share a sunny day in the garden.,and,Sunflower,Butterfly,True,True,True
+44,An astronaut and an alien are shaking hands on the moon.,and,Astronaut,Alien,True,True,True
+45,A pirate and a mermaid are searching for treasure at sea.,and,Pirate,Mermaid,True,True,True
+46,A chef and a waitress are serving food in a busy restaurant.,and,Chef,Waitress,True,True,True
+47,A knight and a dragon are having a friendly chat in front of the castle.,and,Knight,Dragon,True,True,True
+48,A teacher and a student are studying a globe in a classroom.,and,Teacher,Student,True,True,True
+49,An artist and a dancer are collaborating in a colorful studio.,and,Artist,Dancer,False,True,False
+50,A mom and a baby are enjoying a picnic in the park.,and,Mom,Baby,True,True,True

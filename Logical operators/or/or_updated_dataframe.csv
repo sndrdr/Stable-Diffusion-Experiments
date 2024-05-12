@@ -1,0 +1,51 @@
+id,sentence,conjunction,first_noun,second_noun,first_noun_presence,second_noun_presence,answer_check
+1,A girl is holding a red balloon or a blue kite.,or,Red balloon,Blue kite,True,True,False
+2,An old man is feeding pigeons or reading a newspaper in the park.,or,Feeding pigeons,Reading a newspaper,True,True,False
+3,A child is building a sandcastle or collecting seashells on the beach.,or,Building a sandcastle,Collecting seashells,True,False,True
+4,A woman is watering her plants or hanging laundry in the backyard.,or,Watering plants,Hanging laundry,True,True,False
+5,A cat is playing with a ball of yarn or sleeping on a comfy chair.,or,Playing with a ball of yarn,Sleeping on a comfy chair,True,True,False
+6,The boat is either red or blue.,either... or,Boat being red,Boat being blue,True,True,False
+7,The girl is holding either a puppy or a kitten.,either... or,Girl holding a puppy,Girl holding a kitten,True,True,False
+8,The man is either running or swimming.,either... or,Man running,Man swimming,True,True,False
+9,The sky is filled with either stars or clouds.,either... or,Sky filled with stars,Sky filled with clouds,True,False,True
+10,The painting depicts either a sunrise or a sunset.,either... or,Painting depicting a sunrise,Painting depicting a sunset,True,True,False
+11,The young boy must choose between a slice of chocolate cake or a scoop of vanilla ice cream.,or,Chocolate cake,Vanilla ice cream,True,True,False
+12,The desert landscape is stark with either a solitary cactus or a weary traveler.,or,Cactus,Weary traveler,True,False,True
+13,The artist's canvas could hold a vibrant sunset or a peaceful moonrise.,or,Vibrant sunset,Peaceful moonrise,True,True,False
+14,The old man spends his evenings reading a book or writing in his journal.,or,Book,Journal,True,True,False
+15,The crystal clear lake reflects either the majestic mountain or the dense forest that surrounds it.,or,Majestic mountain,Dense forest,True,True,False
+16,The little girl was holding either a red balloon or a blue kite.,either... or,Red balloon,Blue kite,True,False,True
+17,The image can be filled with either a roaring lion or a sleeping bear.,either... or,Roaring lion,Sleeping bear,False,False,False
+18,In the middle of the room stood either a tall pine Christmas tree or an antique grandfather clock.,either... or,Tall pine Christmas tree,Antique grandfather clock,True,True,False
+19,"In the garden, there was either a vibrant rose bush or a rusty garden gate.",either... or,Vibrant rose bush,Rusty garden gate,True,True,False
+20,"The sky was painted with either a bright, full moon or a fiery sunset.",either... or,"Bright, full moon",Fiery sunset,False,True,True
+21,A stunning sunset or a blossoming rose could be the center of the artwork.,or,Stunning sunset,Blossoming rose,False,True,True
+22,The image could either capture the essence of a roaring lion or a flying eagle.,or,Roaring lion,Flying eagle,True,True,False
+23,The illustration should emphasize either the tranquility of a quiet lake or the grandeur of a majestic mountain.,or,Quiet lake,Majestic mountain,True,True,False
+24,The visual could depict the vibrant life of a bustling city or the serene beauty of a countryside landscape.,or,Bustling city,Countryside landscape,True,False,True
+25,The artwork may present either the mysterious allure of a moonlit night or the warm vibrance of a sunny day.,or,Moonlit night,Sunny day,True,True,False
+26,The picture can either depict a vibrant sunrise or a serene sunset.,either... or,Vibrant sunrise,Serene sunset,True,True,False
+27,"In the painting, there should be either a bustling cityscape or a peaceful countryside.",either... or,Bustling cityscape,Peaceful countryside,True,True,False
+28,The sketch should feature either a majestic lion or a graceful deer.,either... or,Majestic lion,Graceful deer,False,False,False
+29,The mural should either portray a vivid summer scene or a snow-covered winter landscape.,either... or,Vivid summer scene,Snow-covered winter landscape,False,True,True
+30,The illustration must include either a tranquil lake or a roaring ocean.,either... or,Tranquil lake,Roaring ocean,False,True,True
+31,A boy is flying a kite or feeding the birds at the park.,or,Boy flying a kite,Boy feeding the birds,True,False,True
+32,The painting could depict a serene lake or a bustling city.,or,Serene lake,Bustling city,True,True,False
+33,She might be reading a book or playing the piano in her spare time.,or,Girl reading a book,Girl playing the piano,False,True,True
+34,The sculpture shows a fierce lion or a graceful gazelle.,or,Fierce lion,Graceful gazelle,False,True,True
+35,The photograph captures either a majestic sunrise or a peaceful sunset.,or,Majestic sunrise,Peaceful sunset,True,True,False
+36,The garden is home to either a charming birdhouse or a vibrant flower bed.,either... or,Birdhouse,Flower bed,True,True,False
+37,"In the sky, one could see either a brilliant rainbow or a fiery sunset.",either... or,Rainbow,Sunset,True,False,True
+38,The dessert plate featured either a slice of creamy cheesecake or a scoop of rich chocolate ice cream.,either... or,Cheesecake,Chocolate ice cream,True,True,False
+39,The artist's canvas boasted either a tranquil seascape or a bustling city skyline.,either... or,Seascape,City skyline,False,True,True
+40,"On the table, there sat either a vintage typewriter or a stack of old books.",either... or,Vintage typewriter,Stack of old books,True,True,False
+41,The moon or the sun should dominate the sky.,or,The moon,The sun,True,True,False
+42,The painting can feature either a rose or a lily.,or,A rose,A lily,True,False,True
+43,The focus of the image is either a castle or a cottage.,or,A castle,A cottage,True,True,False
+44,A child or a puppy can be the playful subject of the photograph.,or,A child,A puppy,True,False,True
+45,The landscape should highlight a waterfall or a mountain.,or,A waterfall,A mountain,True,False,True
+46,The painting can depict either a majestic lion lounging in the savannah or a graceful gazelle leaping through the grass.,either... or,Majestic lion lounging in the savannah,Graceful gazelle leaping through the grass,True,True,False
+47,The photograph can showcase either the vibrant colors of a bustling cityscape at sunset or the serene beauty of a tranquil mountain range.,either... or,Vibrant colors of a bustling cityscape at sunset,Serene beauty of a tranquil mountain range,True,True,False
+48,The illustration can highlight either a lively group of children playing in the park or an elderly couple enjoying a peaceful afternoon on a porch swing.,either... or,Lively group of children playing in the park,Elderly couple enjoying a peaceful afternoon on a porch swing,False,False,False
+49,The sketch can portray either a delicate butterfly landing on a blooming flower or a busy bee collecting nectar.,either... or,Delicate butterfly landing on a blooming flower,Busy bee collecting nectar,False,False,False
+50,The digital art may feature either a futuristic cityscape with towering skyscrapers or a dystopian landscape with ruins of abandoned structures.,either... or,Futuristic cityscape with towering skyscrapers,Dystopian landscape with ruins of abandoned structures,True,False,True
