@@ -22,7 +22,7 @@ df['verb'] = None
 # Function to generate prompt and parse response
 def process_caption(caption):
     if pd.isna(caption):
-        return None, None, None, None  # Handle NaN values gracefully
+        return None, None, None, None  # Handle NaN values
 
     prompt = f"""
     Analyze the given sentence carefully:
@@ -59,8 +59,6 @@ def parse_response(response):
     data = {}
     lines = response.split('\n')
     for line in lines:
-        # Debug print to see how lines are being processed
-        # print("Line being processed:", line)
         # Check if line contains the expected pattern before processing
         if ': ' in line:
             key, value = line.split(': ', 1)
@@ -91,7 +89,7 @@ with open('prepositions_responses.json', 'w') as f:
 """
 
 responses = {}
-batch_size = 100  # Define batch size for processing and saving progress
+batch_size = 100  # Define batch size
 for index, row in df.iterrows():
     if index % batch_size == 0 and index > 0:  # Save periodically
         with open(f'prepositions_responses_{index}.json', 'w') as file:

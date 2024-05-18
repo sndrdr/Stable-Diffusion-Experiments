@@ -6,9 +6,8 @@ def contains_digit(sentence):
     return bool(re.search(r'\d', sentence))
 
 # Function to check if the sentence contains numbers as words
-# This is a basic version and might need to be extended
 def contains_number_word(sentence):
-    number_words = set(["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve"])  # extend this set as needed
+    number_words = set(["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve"])
     return bool(number_words.intersection(sentence.lower().split()))
 
 # Load the dataset

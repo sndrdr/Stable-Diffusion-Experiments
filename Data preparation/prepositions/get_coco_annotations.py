@@ -19,7 +19,7 @@ original_file_path = 'original_coco_dataframe.csv'
 initial_df.to_csv(original_file_path, index=False)
 
 # Add new columns with initial values to the shuffled DataFrame
-df['preposition'] = None  # You can replace None with an initial value if applicable
+df['preposition'] = None
 df['subject'] = None
 df['object'] = None
 df['verb'] = None

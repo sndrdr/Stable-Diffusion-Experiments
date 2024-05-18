@@ -6,7 +6,7 @@ with open('cleaned_prepositions_responses.json', 'r') as file:
 
 # Create a new dictionary with continuous indices
 new_data = {}
-index = 0  # Start with index 0 or 1 based on your requirement
+index = 0  # Start with index 0
 for key in sorted(data.keys(), key=int):  # Ensure keys are sorted numerically
     new_data[str(index)] = data[key]
     index += 1

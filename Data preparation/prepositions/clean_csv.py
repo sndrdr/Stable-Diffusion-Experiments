@@ -30,5 +30,5 @@ df_filtered.to_csv('coco_augmented_dataframe.csv', index=False)
 # Print the number of rows in the filtered DataFrame
 print(f"Number of rows in the filtered DataFrame: {df_filtered.shape[0]}")
 
-# Optionally, also print the number of rows in the original DataFrame for comparison
+# Print the number of rows in the original DataFrame for comparison
 print(f"Number of rows in the original DataFrame: {df.shape[0]}")
