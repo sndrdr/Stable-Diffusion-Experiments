@@ -3,16 +3,12 @@ import numpy as np
 import random
 
 def choose_different_preposition(prepositions, current):
-    """
-    Choose a random preposition from the list that's not the current one.
-    """
+    """Choose a random preposition from the list that's not the current one."""
     choices = [p for p in prepositions if p != current]
     return random.choice(choices) if choices else current
 
 def replace_first_instance(caption, original, replacement):
-    """
-    Replace the first instance of the original preposition in the caption with the replacement.
-    """
+    """Replace the first instance of the original preposition in the caption with the replacement."""
     words = caption.split()
     for i, word in enumerate(words):
         # Check if the word matches the original preposition and replace it
