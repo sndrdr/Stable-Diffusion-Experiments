@@ -4,7 +4,7 @@ import pandas as pd
 df1 = pd.read_csv('and/and_generated_sentences_1.csv')
 df2 = pd.read_csv('and/and_generated_sentences_2.csv')
 
-# Concatenate the two dataframes
+# Concatenate the two DataFrames
 combined_df = pd.concat([df1, df2])
 
 # Take only the first 50 rows of the united DataFrame
