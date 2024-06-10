@@ -15,7 +15,7 @@ def replace_first_instance(caption, original, replacement):
     """
     words = caption.split()
     for i, word in enumerate(words):
-        # Check if the word matches the original preposition and replace it.
+        # Check if the word matches the original preposition and replace it
         if word == original:
             words[i] = replacement
             break
