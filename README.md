@@ -1,1 +1,3 @@
-Code adapted from castorini's implementation. Source: https://github.com/castorini/daam. License: MIT License (see LICENSE.txt for detils)
+This study explores the interpretability of the Stable Diffusion model, focusing on its handling of prepositions, numbers, and logical expressions. Using the diffusion attentive attribution maps (DAAM), we analyze attention patterns for prepositions and their overlap with related syntactic elements. Concerning numerical representations, we leverage representational similarity analysis (RSA) to compare the model's latent embeddings of numbers as words and digits. Finally, we assess the model's comprehension of logical expressions using the visual question answering technique (VQA). The results of our experiments are then analyzed and discussed in the Master's Thesis.
+
+Code for prepositions adapted from castorini's implementation. Source: https://github.com/castorini/daam. License: MIT License (see LICENSE.txt for detils)
